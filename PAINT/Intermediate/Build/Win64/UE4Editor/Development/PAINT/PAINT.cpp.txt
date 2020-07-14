@@ -1,0 +1,2 @@
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\Definitions.PAINT.h
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\PAINT.h

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PAINT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C69F7487-8E3F-4459-BE10-77EDFB63254B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PAINT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PAINTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{533EFDD2-6AE4-42E1-9176-EF8FA211963A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PAINT">
+      <UniqueIdentifier>{3B4D38CB-3C94-434F-985E-6DE05D368FFE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PAINT\PAINT.Build.cs">
+      <Filter>Source\PAINT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PAINT\PAINT.cpp">
+      <Filter>Source\PAINT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PAINT\PAINT.h">
+      <Filter>Source\PAINT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PAINT\PAINTCharacter.cpp">
+      <Filter>Source\PAINT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PAINT\PAINTCharacter.h">
+      <Filter>Source\PAINT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PAINT\PAINTGameMode.cpp">
+      <Filter>Source\PAINT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PAINT\PAINTGameMode.h">
+      <Filter>Source\PAINT</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

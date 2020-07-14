@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/.vs": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/.vscode": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/DerivedDataCache": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Intermediate": true,
+		"C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved": true
+	}
+}
