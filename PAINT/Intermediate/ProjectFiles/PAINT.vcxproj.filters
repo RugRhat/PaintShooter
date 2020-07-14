@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PAINT.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{484D3305-D321-48F0-9266-ADA14D47934F}</UniqueIdentifier>
+      <UniqueIdentifier>{CAD0466A-9F99-4896-B006-1BB32ECE2E0D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PAINT.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{89F56000-5601-411A-B7DA-A7F7B1EE8AC4}</UniqueIdentifier>
+      <UniqueIdentifier>{644E537C-E1A5-4690-AD32-F5466257DD7C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PAINT">
-      <UniqueIdentifier>{5E2CF27F-938E-4B47-8BEA-396E8D5371AB}</UniqueIdentifier>
+      <UniqueIdentifier>{24C8BE72-890F-47A8-8C30-ABCCF177F080}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PAINT\PAINT.Build.cs">
       <Filter>Source\PAINT</Filter>

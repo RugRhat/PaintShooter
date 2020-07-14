@@ -51,7 +51,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8CEDBF1B-12A6-48BD-9B9B-8AA7F0992AC8}</ProjectGuid>
+    <ProjectGuid>{1588EA99-80AD-45E3-AA39-7DD7EAD55353}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>PAINT</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>
