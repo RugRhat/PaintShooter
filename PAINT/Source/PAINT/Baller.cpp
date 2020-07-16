@@ -5,7 +5,7 @@
 #include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
 #include "GameFramework/SpringArmComponent.h"
-// #include "Gun.h
+#include "Gun.h"
 
 
 // Sets default values
@@ -99,9 +99,9 @@ void ABaller::Equip()
 	 } else{
 		bEquiped = true;
 		
-		// Gun = GetWorld()->SpawnActor<AGun>(GunClass);	
-		// Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform, TEXT("index_02_r"));
-		// Gun->SetOwner(this);
+		Gun = GetWorld()->SpawnActor<AGun>(GunClass);	
+		Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform, TEXT("index_02_r"));
+		Gun->SetOwner(this);
 	 }
 }
 
@@ -158,12 +158,16 @@ void ABaller::Prone()
 void ABaller::Aim() 
 {
 	bAiming = true;
+	// SpringArm->TargetArmLength = 250.f;
+	// SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
 }
 
 
 void ABaller::StopAiming() 
 {
 	bAiming = false;
+	// SpringArm->TargetArmLength = 250.f;
+	// SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
 }
 
 

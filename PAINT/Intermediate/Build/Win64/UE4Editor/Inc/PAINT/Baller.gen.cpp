@@ -17,6 +17,8 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 	PAINT_API UClass* Z_Construct_UClass_ABaller();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_PAINT();
+	PAINT_API UClass* Z_Construct_UClass_AGun_NoRegister();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 // End Cross Module References
@@ -223,6 +225,14 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Gun_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_Gun;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_GunClass_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_GunClass;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_RotationRate_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_RotationRate;
@@ -250,13 +260,24 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "// class AGun;\n" },
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "Baller.h" },
 		{ "ModuleRelativePath", "Baller.h" },
-		{ "ToolTip", "class AGun;" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::NewProp_Gun_MetaData[] = {
+		{ "ModuleRelativePath", "Baller.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABaller_Statics::NewProp_Gun = { "Gun", nullptr, (EPropertyFlags)0x0040000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABaller, Gun), Z_Construct_UClass_AGun_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ABaller_Statics::NewProp_Gun_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABaller_Statics::NewProp_Gun_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::NewProp_GunClass_MetaData[] = {
+		{ "Category", "Baller" },
+		{ "ModuleRelativePath", "Baller.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ABaller_Statics::NewProp_GunClass = { "GunClass", nullptr, (EPropertyFlags)0x0044000000010001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABaller, GunClass), Z_Construct_UClass_AGun_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ABaller_Statics::NewProp_GunClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABaller_Statics::NewProp_GunClass_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::NewProp_RotationRate_MetaData[] = {
 		{ "Category", "Baller" },
@@ -281,6 +302,8 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm = { "SpringArm", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABaller, SpringArm), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ABaller_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABaller_Statics::NewProp_Gun,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABaller_Statics::NewProp_GunClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABaller_Statics::NewProp_RotationRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABaller_Statics::NewProp_Camera,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm,
@@ -312,7 +335,7 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABaller, 2475833545);
+	IMPLEMENT_CLASS(ABaller, 2665202215);
 	template<> PAINT_API UClass* StaticClass<ABaller>()
 	{
 		return ABaller::StaticClass();

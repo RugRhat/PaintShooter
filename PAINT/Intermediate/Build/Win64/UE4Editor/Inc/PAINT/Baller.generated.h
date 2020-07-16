@@ -75,7 +75,9 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABaller); \
 #define PAINT_Source_PAINT_Baller_h_16_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__SpringArm() { return STRUCT_OFFSET(ABaller, SpringArm); } \
 	FORCEINLINE static uint32 __PPO__Camera() { return STRUCT_OFFSET(ABaller, Camera); } \
-	FORCEINLINE static uint32 __PPO__RotationRate() { return STRUCT_OFFSET(ABaller, RotationRate); }
+	FORCEINLINE static uint32 __PPO__RotationRate() { return STRUCT_OFFSET(ABaller, RotationRate); } \
+	FORCEINLINE static uint32 __PPO__GunClass() { return STRUCT_OFFSET(ABaller, GunClass); } \
+	FORCEINLINE static uint32 __PPO__Gun() { return STRUCT_OFFSET(ABaller, Gun); }
 
 
 #define PAINT_Source_PAINT_Baller_h_13_PROLOG

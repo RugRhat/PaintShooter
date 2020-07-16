@@ -8,7 +8,7 @@
 
 class USpringArmComponent;
 class UCameraComponent;
-// class AGun;
+class AGun;
 
 UCLASS()
 class PAINT_API ABaller : public ACharacter
@@ -62,11 +62,11 @@ private:
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 70.f;
 
-	// UPROPERTY(EditDefaultsOnly)
-	// TSubclassOf<AGun> GunClass;
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AGun> GunClass;
 
-	// UPROPERTY()
-	// AGun* Gun;
+	UPROPERTY()
+	AGun* Gun;
 
 	bool bEquiped;
 	bool bCrouched;

@@ -9,3 +9,5 @@ C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/SpringArmComponent.h
 C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SpringArmComponent.generated.h
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Gun.h
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Inc\PAINT\Gun.generated.h
