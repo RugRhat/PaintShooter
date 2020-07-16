@@ -296,8 +296,10 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm_MetaData[] = {
 		{ "Category", "Baller" },
+		{ "Comment", "// void Quit();\n" },
 		{ "EditInline", "true" },
 		{ "ModuleRelativePath", "Baller.h" },
+		{ "ToolTip", "void Quit();" },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm = { "SpringArm", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ABaller, SpringArm), Z_Construct_UClass_USpringArmComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ABaller_Statics::NewProp_SpringArm_MetaData)) };
@@ -335,7 +337,7 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABaller, 2665202215);
+	IMPLEMENT_CLASS(ABaller, 1753200683);
 	template<> PAINT_API UClass* StaticClass<ABaller>()
 	{
 		return ABaller::StaticClass();

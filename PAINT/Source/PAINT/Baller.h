@@ -40,6 +40,7 @@ private:
 	void Prone();
 	void Aim();
 	void StopAiming();
+	// void Quit();
 
 	UPROPERTY(VisibleAnywhere)
 	USpringArmComponent* SpringArm;

@@ -61,7 +61,9 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGun); \
 #define PAINT_Source_PAINT_Gun_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Root() { return STRUCT_OFFSET(AGun, Root); } \
 	FORCEINLINE static uint32 __PPO__Mesh() { return STRUCT_OFFSET(AGun, Mesh); } \
-	FORCEINLINE static uint32 __PPO__ProjectileSpawnPoint() { return STRUCT_OFFSET(AGun, ProjectileSpawnPoint); }
+	FORCEINLINE static uint32 __PPO__ProjectileSpawnPoint() { return STRUCT_OFFSET(AGun, ProjectileSpawnPoint); } \
+	FORCEINLINE static uint32 __PPO__ProjectileClass() { return STRUCT_OFFSET(AGun, ProjectileClass); } \
+	FORCEINLINE static uint32 __PPO__Projectile() { return STRUCT_OFFSET(AGun, Projectile); }
 
 
 #define PAINT_Source_PAINT_Gun_h_12_PROLOG

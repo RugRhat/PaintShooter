@@ -1,3 +1,5 @@
 C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\Definitions.PAINT.h
 C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Gun.h
 C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Inc\PAINT\Gun.generated.h
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Projectile.h
+C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Inc\PAINT\Projectile.generated.h

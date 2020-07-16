@@ -6,6 +6,7 @@
 #include "GameFramework/Character.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Gun.h"
+// #include "Kismet/KismetSystemLibrary.h"
 
 
 // Sets default values
@@ -15,7 +16,7 @@ ABaller::ABaller()
 	PrimaryActorTick.bCanEverTick = true;
 
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("Spring Arm"));
-	SpringArm->SetRelativeRotation(FRotator(0.f, 10.f, 0.f));
+	//SpringArm->SetRelativeRotation(FRotator(0.f, 20.f, 0.f));
 	SpringArm->TargetArmLength = 250.f;
     SpringArm->SetupAttachment(RootComponent);
 
@@ -58,12 +59,15 @@ void ABaller::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	PlayerInputComponent->BindAction(TEXT("Crouch"), EInputEvent::IE_Pressed, this, &ABaller::Crouch);
 	PlayerInputComponent->BindAction(TEXT("Prone"), EInputEvent::IE_Pressed, this, &ABaller::Prone);
 	PlayerInputComponent->BindAction(TEXT("Shoot"), EInputEvent::IE_Pressed, this, &ABaller::Shoot);
+	// PlayerInputComponent->BindAction(TEXT("Quit"), EInputEvent::IE_Pressed, this, &ABaller::Quit);
 }
 
 
 void ABaller::Shoot() 
 {
-	// Gun->PullTrigger();
+	if(bEquiped){
+		Gun->PullTrigger();
+	}
 }
 
 
@@ -95,7 +99,7 @@ void ABaller::Equip()
 {
 	if(bEquiped){
 		bEquiped = false;
-		// Gun->Destroy();
+		Gun->Destroy();
 	 } else{
 		bEquiped = true;
 		
@@ -157,18 +161,27 @@ void ABaller::Prone()
 
 void ABaller::Aim() 
 {
-	bAiming = true;
-	// SpringArm->TargetArmLength = 250.f;
-	// SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
+	if(bEquiped){
+		bAiming = true;
+		SpringArm->TargetArmLength = 50.f;
+		SpringArm->SocketOffset = FVector(0.f, 25.f, 0.f);
+		SpringArm->SetRelativeRotation(FRotator(0.f, 20.f, 0.f));
+	}
 }
 
 
 void ABaller::StopAiming() 
 {
 	bAiming = false;
-	// SpringArm->TargetArmLength = 250.f;
-	// SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
+	SpringArm->TargetArmLength = 250.f;
+	SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
 }
+
+
+// void ABaller::Quit() 
+// {
+// 	UKismetSystemLibrary::QuitGame(this, nullptr, EQuitPreference::Quit, true);
+// }
 
 
 bool ABaller::IsEquiped() const

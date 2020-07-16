@@ -3,7 +3,7 @@
 
 #include "Gun.h"
 #include "Components/SkeletalMeshComponent.h"
-// #include "Projectile.h"
+#include "Projectile.h"
 // #include "Kismet/GameplayStatics.h"
 
 
@@ -42,12 +42,12 @@ void AGun::Tick(float DeltaTime)
 
 void AGun::PullTrigger() 
 {
-	// if(ProjectileClass){
-	// 	FVector SpawnLocation = ProjectileSpawnPoint->GetComponentLocation();
-	// 	FRotator SpawnRotation = ProjectileSpawnPoint->GetComponentRotation();
+	if(ProjectileClass){
+		FVector SpawnLocation = ProjectileSpawnPoint->GetComponentLocation();
+		FRotator SpawnRotation = ProjectileSpawnPoint->GetComponentRotation();
 
-	// 	Projectile = GetWorld()->SpawnActor<AProjectile>(ProjectileClass, SpawnLocation, SpawnRotation);
-	// 	Projectile->SetOwner(this);
-	// }
+		Projectile = GetWorld()->SpawnActor<AProjectile>(ProjectileClass, SpawnLocation, SpawnRotation);
+		Projectile->SetOwner(this);
+	}
 }
 

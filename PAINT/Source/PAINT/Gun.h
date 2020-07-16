@@ -7,7 +7,7 @@
 #include "Gun.generated.h"
 
 
-//class AProjectile;
+class AProjectile;
 
 UCLASS()
 class PAINT_API AGun : public AActor
@@ -34,11 +34,11 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	USceneComponent* ProjectileSpawnPoint;
 
-	// UPROPERTY(EditDefaultsOnly)
-	// TSubclassOf<AProjectile> ProjectileClass;
+	UPROPERTY(EditDefaultsOnly)
+	TSubclassOf<AProjectile> ProjectileClass;
 
-	// UPROPERTY()
-	// AProjectile* Projectile;
+	UPROPERTY()
+	AProjectile* Projectile;
 
 protected:
 	// Called when the game starts or when spawned
