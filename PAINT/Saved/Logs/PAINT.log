@@ -1488,3 +1488,1499 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.16-01.43.57:076][108]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2020.07.16-01.43.57:076][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.07.16-01.45.31:332][527]LogUObjectHash: Compacting FUObjectHashTables data took  10.62ms
+[2020.07.16-01.50.20:542][417]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-01.50.25:453][471]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-01.50.25:453][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-01.50.25:467][471]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-01.50.25:467][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-01.50.25:946][471]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-01.50.25:946][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-01.53.41:853][363]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.07.16-01.53.41:856][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tester' took 0.193
+[2020.07.16-01.53.41:860][363]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Baller] ([1] browsable assets)...
+[2020.07.16-01.53.41:901][363]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Baller.BP_Baller]
+[2020.07.16-01.53.41:901][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Baller]
+[2020.07.16-01.53.42:084][363]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller_Auto2E2AA47164A00267ADC7EDAA44C90D985.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Autosaves/Game/Blueprints/BP_Baller_Auto2.uasset'
+[2020.07.16-01.53.42:091][363]LogFileHelpers: Auto-saving content packages took 0.234
+[2020.07.16-01.55.31:813][830]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-01.55.31:826][830]LogBlueprint: Warning: [Compiler BP_Baller] Baller.SpringArm is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get SpringArm
+[2020.07.16-01.55.32:396][830]LogUObjectHash: Compacting FUObjectHashTables data took  15.35ms
+[2020.07.16-01.56.28:760][451]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-01.56.28:983][451]LogUObjectHash: Compacting FUObjectHashTables data took  13.17ms
+[2020.07.16-01.56.29:387][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-01.56.29:559][454]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller43A074344C50933FD3AD539FD80A94D9.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-01.56.29:665][454]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-01.56.29:665][454]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.05.44:403][656]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.05.44:691][656]LogUObjectHash: Compacting FUObjectHashTables data took  15.50ms
+[2020.07.16-02.05.45:316][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-02.05.45:601][663]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller331BEFE44B909E69663A21A0D09D1D75.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-02.05.45:715][663]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-02.05.45:715][663]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.09.13:302][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.07.16-02.09.13:308][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Tester' took 0.052
+[2020.07.16-02.09.13:309][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Baller] ([1] browsable assets)...
+[2020.07.16-02.09.13:346][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Baller.BP_Baller]
+[2020.07.16-02.09.13:347][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Baller]
+[2020.07.16-02.09.13:415][641]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller_Auto33F932E344453863E6D646EB99B60EFEB.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Autosaves/Game/Blueprints/BP_Baller_Auto3.uasset'
+[2020.07.16-02.09.13:419][641]LogFileHelpers: Auto-saving content packages took 0.111
+[2020.07.16-02.10.48:904][928]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.10.49:196][928]LogUObjectHash: Compacting FUObjectHashTables data took  11.29ms
+[2020.07.16-02.10.50:550][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-02.10.50:814][947]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller98B221BE4F969EDE93C1A49FA02E38BF.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-02.10.50:872][947]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-02.10.50:872][947]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.10.54:858][  8]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.10.55:089][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.10.55:090][  8]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:10:55 PM)
+[2020.07.16-02.10.55:090][  8]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.10.55:108][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017289s)
+[2020.07.16-02.10.55:113][  8]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.10.55:113][  8]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268DE408200), frame # 37008
+[2020.07.16-02.10.55:114][  8]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268A80ECA40), frame # 37008
+[2020.07.16-02.10.55:114][  8]LogPlayLevel: PIE: World Init took: (0.005640s)
+[2020.07.16-02.10.55:114][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.023630s)
+[2020.07.16-02.10.55:235][  8]LogUObjectHash: Compacting FUObjectHashTables data took  26.98ms
+[2020.07.16-02.10.55:241][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.10.55:242][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.10.55:242][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.10.55:244][  8]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.10.55:245][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.10.55:292][  8]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.10.55:292][  8]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.10.55:545][  8]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.10.55:545][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.10.55:546][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.10.55:546][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.10.55:547][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.10.55:604][  8]LogInit: FAudioDevice initialized.
+[2020.07.16-02.10.55:624][  8]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.10.55:627][  8]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.10.55
+[2020.07.16-02.10.55:628][  8]LogWorld: Bringing up level for play took: 0.002095
+[2020.07.16-02.10.55:629][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.07.16-02.10.55:638][  8]PIE: Server logged in
+[2020.07.16-02.10.55:641][  8]PIE: Play in editor total start time 0.573 seconds.
+[2020.07.16-02.11.20:946][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.11.20:946][406]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.11.20:947][406]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.11.20:948][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.11.21:042][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.11.21:051][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.11.21:135][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.11.21:210][406]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268A80ECA40), frame # 37406
+[2020.07.16-02.11.21:210][406]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268DE408200), frame # 37406
+[2020.07.16-02.11.21:218][406]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2020.07.16-02.11.21:412][407]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.07.16-02.11.40:320][491]Candidate modules for hot reload:
+[2020.07.16-02.11.40:320][491]  PAINT
+[2020.07.16-02.11.40:321][491]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,814 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.11.40:335][491]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.13.18:000][725]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:13:17 PM
+[2020.07.16-02.13.18:000][725]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.13.18:001][725]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.13.18:001][725]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.13.18:001][725]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.13.18:001][725]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.13.18:001][725]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.13.18:001][725]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.13.18:001][725]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:   [2/4] UE4Editor-PAINT-0814.lib
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0814.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0814.exp
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:   [3/4] UE4Editor-PAINT-0814.dll
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0814.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0814.suppressed.exp
+[2020.07.16-02.13.18:002][725]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.13.18:002][725]CompilerResultsLog: Total time in Parallel executor: 83.68 seconds
+[2020.07.16-02.13.18:003][725]CompilerResultsLog: Total execution time: 95.20 seconds
+[2020.07.16-02.13.18:003][725]LogMainFrame: MainFrame: Module compiling took 97.732 seconds
+[2020.07.16-02.13.18:164][725]LogContentBrowser: Native class hierarchy populated in 0.0734 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.13.18:164][725]Display: HotReload took 97.9s.
+[2020.07.16-02.13.23:435][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.13.23:777][775]LogUObjectHash: Compacting FUObjectHashTables data took  17.98ms
+[2020.07.16-02.13.23:955][775]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterE3D0BF36498A7A81024E65AA180AC412.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.13.24:162][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.13.24:296][775]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataF1084E074039E56FB781FDA08F00456B.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.13.24:362][775]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.13.24:362][775]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.13.24:362][775]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.13.25:580][794]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.13.25:837][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.13.25:837][794]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:13:25 PM)
+[2020.07.16-02.13.25:838][794]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.13.25:850][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011811s)
+[2020.07.16-02.13.25:871][794]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.13.25:872][794]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026849C82800), frame # 38794
+[2020.07.16-02.13.25:872][794]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002689A13B240), frame # 38794
+[2020.07.16-02.13.25:873][794]LogPlayLevel: PIE: World Init took: (0.022597s)
+[2020.07.16-02.13.25:873][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.035026s)
+[2020.07.16-02.13.26:107][794]LogUObjectHash: Compacting FUObjectHashTables data took  11.17ms
+[2020.07.16-02.13.26:110][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.13.26:110][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.13.26:110][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.13.26:110][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.13.26:111][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.13.26:111][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.13.26:111][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.13.26:111][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.13.26:112][794]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.13.26:113][794]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.13.26:158][794]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.13.26:158][794]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.13.26:587][794]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.13.26:588][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.13.26:588][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.13.26:588][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.13.26:589][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.13.26:602][794]LogInit: FAudioDevice initialized.
+[2020.07.16-02.13.26:632][794]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.13.26:634][794]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.13.26
+[2020.07.16-02.13.26:635][794]LogWorld: Bringing up level for play took: 0.001473
+[2020.07.16-02.13.26:635][794]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.07.16-02.13.26:642][794]PIE: Server logged in
+[2020.07.16-02.13.26:645][794]PIE: Play in editor total start time 0.84 seconds.
+[2020.07.16-02.14.16:974][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.14.16:975][781]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.14.16:978][781]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.14.16:979][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.14.17:099][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.14.17:115][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.14.17:247][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.14.17:345][781]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002689A13B240), frame # 39781
+[2020.07.16-02.14.17:345][781]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026849C82800), frame # 39781
+[2020.07.16-02.14.17:364][781]LogUObjectHash: Compacting FUObjectHashTables data took  17.59ms
+[2020.07.16-02.14.17:558][782]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.07.16-02.17.32:061][882]Candidate modules for hot reload:
+[2020.07.16-02.17.32:061][882]  PAINT
+[2020.07.16-02.17.32:062][882]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,191 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.17.32:071][882]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:17:53 PM
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog:   [1/3] UE4Editor-PAINT-0191.lib
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0191.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0191.exp
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog:   [2/3] UE4Editor-PAINT-0191.dll
+[2020.07.16-02.17.53:157][ 34]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0191.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0191.suppressed.exp
+[2020.07.16-02.17.53:158][ 34]CompilerResultsLog:   [3/3] PAINTEditor.target
+[2020.07.16-02.17.53:158][ 34]CompilerResultsLog: Total time in Parallel executor: 9.28 seconds
+[2020.07.16-02.17.53:158][ 34]CompilerResultsLog: Total execution time: 19.16 seconds
+[2020.07.16-02.17.53:158][ 34]LogMainFrame: MainFrame: Module compiling took 21.171 seconds
+[2020.07.16-02.17.53:200][ 34]LogContentBrowser: Native class hierarchy populated in 0.0182 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.17.53:200][ 34]Display: HotReload took 21.2s.
+[2020.07.16-02.18.03:067][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.18.03:201][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.18.03:201][ 73]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:18:03 PM)
+[2020.07.16-02.18.03:202][ 73]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.18.03:211][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009245s)
+[2020.07.16-02.18.03:214][ 73]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.18.03:214][ 73]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268A82F3E00), frame # 41073
+[2020.07.16-02.18.03:214][ 73]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268CE258900), frame # 41073
+[2020.07.16-02.18.03:215][ 73]LogPlayLevel: PIE: World Init took: (0.003702s)
+[2020.07.16-02.18.03:215][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.013576s)
+[2020.07.16-02.18.03:800][ 73]LogUObjectHash: Compacting FUObjectHashTables data took  33.60ms
+[2020.07.16-02.18.03:808][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.18.03:808][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.18.03:808][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.18.03:808][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.18.03:809][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.18.03:809][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.18.03:809][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.18.03:809][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.18.03:810][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.18.03:811][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.18.03:838][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.18.03:838][ 73]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.18.04:058][ 73]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.18.04:058][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.18.04:058][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.18.04:059][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.18.04:060][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.18.04:090][ 73]LogInit: FAudioDevice initialized.
+[2020.07.16-02.18.04:110][ 73]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.18.04:112][ 73]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.18.04
+[2020.07.16-02.18.04:113][ 73]LogWorld: Bringing up level for play took: 0.001673
+[2020.07.16-02.18.04:113][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.07.16-02.18.04:121][ 73]PIE: Server logged in
+[2020.07.16-02.18.04:124][ 73]PIE: Play in editor total start time 0.951 seconds.
+[2020.07.16-02.18.21:501][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.18.21:501][342]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.18.21:502][342]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.18.21:503][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.18.21:605][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.18.21:621][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.18.21:741][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.18.21:997][342]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268CE258900), frame # 41342
+[2020.07.16-02.18.21:998][342]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268A82F3E00), frame # 41342
+[2020.07.16-02.18.22:059][342]LogUObjectHash: Compacting FUObjectHashTables data took  11.62ms
+[2020.07.16-02.18.22:225][343]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.07.16-02.18.49:778][794]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.18.50:056][794]LogUObjectHash: Compacting FUObjectHashTables data took  13.07ms
+[2020.07.16-02.18.57:606][915]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.18.57:965][915]LogUObjectHash: Compacting FUObjectHashTables data took  12.50ms
+[2020.07.16-02.18.58:547][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-02.18.58:797][922]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_BallerCEDF7ACB4447BDE77E21EB9645D2B2B9.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-02.18.58:951][922]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-02.18.58:951][922]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.19.23:763][ 29]Candidate modules for hot reload:
+[2020.07.16-02.19.23:764][ 29]  PAINT
+[2020.07.16-02.19.23:765][ 29]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,3530 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.19.23:779][ 29]Warning: Starting HotReload took  0.0s.
+[2020.07.16-02.21.00:405][264]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:21:00 PM
+[2020.07.16-02.21.00:406][264]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.21.00:406][264]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.21.00:406][264]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.21.00:406][264]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.21.00:406][264]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.21.00:406][264]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.21.00:430][264]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.21.00:432][264]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.21.00:432][264]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.21.00:432][264]CompilerResultsLog:   [2/4] UE4Editor-PAINT-3530.lib
+[2020.07.16-02.21.00:433][264]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3530.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3530.exp
+[2020.07.16-02.21.00:433][264]CompilerResultsLog:   [3/4] UE4Editor-PAINT-3530.dll
+[2020.07.16-02.21.00:433][264]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3530.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3530.suppressed.exp
+[2020.07.16-02.21.00:433][264]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.21.00:434][264]CompilerResultsLog: Total time in Parallel executor: 77.40 seconds
+[2020.07.16-02.21.00:434][264]CompilerResultsLog: Total execution time: 93.19 seconds
+[2020.07.16-02.21.00:435][264]LogMainFrame: MainFrame: Module compiling took 96.702 seconds
+[2020.07.16-02.21.00:897][264]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0019 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.21.00:914][264]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.21.01:678][264]LogContentBrowser: Native class hierarchy populated in 0.0383 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.21.01:679][264]Display: HotReload took 97.9s.
+[2020.07.16-02.21.05:496][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.21.05:798][299]LogUObjectHash: Compacting FUObjectHashTables data took  18.79ms
+[2020.07.16-02.21.05:952][299]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterD89697414CC8CE644636CCA70B177288.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.21.06:182][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.21.06:322][299]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData02A243394BD7ADB254347EA31E5918B4.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.21.06:393][299]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.21.06:393][299]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.21.06:394][299]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.21.07:653][316]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.21.07:829][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.21.07:829][316]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:21:07 PM)
+[2020.07.16-02.21.07:830][316]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.21.07:843][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013298s)
+[2020.07.16-02.21.07:847][316]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.21.07:848][316]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026843240C00), frame # 43316
+[2020.07.16-02.21.07:848][316]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268DAF5FD80), frame # 43316
+[2020.07.16-02.21.07:849][316]LogPlayLevel: PIE: World Init took: (0.005057s)
+[2020.07.16-02.21.07:849][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.019121s)
+[2020.07.16-02.21.08:075][316]LogUObjectHash: Compacting FUObjectHashTables data took  11.01ms
+[2020.07.16-02.21.08:079][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.21.08:079][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.21.08:079][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.21.08:080][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.21.08:080][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.21.08:080][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.21.08:080][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.21.08:080][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.21.08:082][316]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.21.08:082][316]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.21.08:118][316]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.21.08:118][316]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.21.08:320][316]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.21.08:320][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.21.08:321][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.21.08:321][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.21.08:322][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.21.08:342][316]LogInit: FAudioDevice initialized.
+[2020.07.16-02.21.08:363][316]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.21.08:367][316]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.21.08
+[2020.07.16-02.21.08:368][316]LogWorld: Bringing up level for play took: 0.003231
+[2020.07.16-02.21.08:369][316]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.07.16-02.21.08:376][316]PIE: Server logged in
+[2020.07.16-02.21.08:379][316]PIE: Play in editor total start time 0.602 seconds.
+[2020.07.16-02.22.06:750][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.22.06:751][254]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.22.06:751][254]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.22.06:752][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.22.06:848][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.22.06:860][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.22.07:005][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.22.07:139][254]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268DAF5FD80), frame # 44254
+[2020.07.16-02.22.07:139][254]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026843240C00), frame # 44254
+[2020.07.16-02.22.07:152][254]LogUObjectHash: Compacting FUObjectHashTables data took  12.05ms
+[2020.07.16-02.22.07:335][255]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.07.16-02.23.11:794][496]Candidate modules for hot reload:
+[2020.07.16-02.23.11:794][496]  PAINT
+[2020.07.16-02.23.11:795][496]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2686 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.23.11:806][496]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.24.33:643][552]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:24:33 PM
+[2020.07.16-02.24.33:644][552]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.24.33:644][552]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.24.33:644][552]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.24.33:644][552]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.24.33:644][552]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.24.33:644][552]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.24.33:644][552]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.24.33:644][552]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.24.33:644][552]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.24.33:645][552]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2686.lib
+[2020.07.16-02.24.33:645][552]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2686.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2686.exp
+[2020.07.16-02.24.33:645][552]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2686.dll
+[2020.07.16-02.24.33:645][552]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2686.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2686.suppressed.exp
+[2020.07.16-02.24.33:645][552]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.24.33:645][552]CompilerResultsLog: Total time in Parallel executor: 66.91 seconds
+[2020.07.16-02.24.33:646][552]CompilerResultsLog: Total execution time: 79.84 seconds
+[2020.07.16-02.24.33:646][552]LogMainFrame: MainFrame: Module compiling took 81.928 seconds
+[2020.07.16-02.24.33:990][552]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.24.34:007][552]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.24.34:760][552]LogContentBrowser: Native class hierarchy populated in 0.0422 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.24.34:760][552]Display: HotReload took 83.0s.
+[2020.07.16-02.24.39:018][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.24.39:437][592]LogUObjectHash: Compacting FUObjectHashTables data took  34.08ms
+[2020.07.16-02.24.39:587][592]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester3D9E99604BE464A3C110D9A0F3867034.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.24.39:766][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.24.39:870][592]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData7FF0C7FF4979F179341DDAB53ACD6B6E.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.24.39:931][592]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.24.39:931][592]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.24.39:931][592]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.24.41:105][610]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.24.41:356][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.24.41:357][610]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:24:41 PM)
+[2020.07.16-02.24.41:357][610]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.24.41:372][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014342s)
+[2020.07.16-02.24.41:376][610]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.24.41:377][610]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268CDEAC800), frame # 45610
+[2020.07.16-02.24.41:377][610]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268B512E700), frame # 45610
+[2020.07.16-02.24.41:378][610]LogPlayLevel: PIE: World Init took: (0.005374s)
+[2020.07.16-02.24.41:378][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.020345s)
+[2020.07.16-02.24.41:691][610]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2020.07.16-02.24.41:693][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.24.41:693][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.24.41:694][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.24.41:694][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.24.41:694][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.24.41:694][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.24.41:694][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.24.41:694][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.24.41:696][610]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.24.41:696][610]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.24.41:728][610]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.24.41:728][610]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.24.41:923][610]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.24.41:924][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.24.41:924][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.24.41:924][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.24.41:925][610]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.24.41:961][610]LogInit: FAudioDevice initialized.
+[2020.07.16-02.24.41:982][610]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.24.41:985][610]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.24.41
+[2020.07.16-02.24.41:985][610]LogWorld: Bringing up level for play took: 0.001725
+[2020.07.16-02.24.41:985][610]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.07.16-02.24.41:993][610]PIE: Server logged in
+[2020.07.16-02.24.41:996][610]PIE: Play in editor total start time 0.692 seconds.
+[2020.07.16-02.25.26:167][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.25.26:167][299]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.25.26:168][299]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.25.26:169][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.25.26:271][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.25.26:282][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.25.26:517][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.25.26:519][299]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268B512E700), frame # 46299
+[2020.07.16-02.25.26:520][299]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268CDEAC800), frame # 46299
+[2020.07.16-02.25.26:532][299]LogUObjectHash: Compacting FUObjectHashTables data took  11.03ms
+[2020.07.16-02.25.26:729][300]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.07.16-02.26.05:635][436]Candidate modules for hot reload:
+[2020.07.16-02.26.05:635][436]  PAINT
+[2020.07.16-02.26.05:636][436]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,7703 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.26.05:650][436]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.26.22:416][476]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:26:22 PM
+[2020.07.16-02.26.22:416][476]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.26.22:416][476]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.26.22:417][476]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.26.22:417][476]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   [2/4] UE4Editor-PAINT-7703.lib
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7703.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7703.exp
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   [3/4] UE4Editor-PAINT-7703.dll
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7703.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7703.suppressed.exp
+[2020.07.16-02.26.22:417][476]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.26.22:417][476]CompilerResultsLog: Total time in Parallel executor: 10.40 seconds
+[2020.07.16-02.26.22:417][476]CompilerResultsLog: Total execution time: 14.34 seconds
+[2020.07.16-02.26.22:417][476]LogMainFrame: MainFrame: Module compiling took 16.838 seconds
+[2020.07.16-02.26.22:531][476]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0007 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.26.22:538][476]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.26.23:993][476]LogContentBrowser: Native class hierarchy populated in 0.1620 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.26.23:993][476]Display: HotReload took 18.4s.
+[2020.07.16-02.26.35:050][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.26.35:335][529]LogUObjectHash: Compacting FUObjectHashTables data took  16.39ms
+[2020.07.16-02.26.35:471][529]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterD4992BAD430C5A5F8D57D48A4569A710.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.26.35:703][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.26.35:842][529]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData5352AFF343DF01ECA8A8AB80E1FEB62C.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.26.35:911][529]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.26.35:911][529]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.26.35:911][529]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.26.36:488][539]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.26.36:683][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.26.36:683][539]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:26:36 PM)
+[2020.07.16-02.26.36:684][539]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.26.36:695][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010777s)
+[2020.07.16-02.26.36:698][539]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.26.36:699][539]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268CDEAEA00), frame # 46539
+[2020.07.16-02.26.36:699][539]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268CCF2FD80), frame # 46539
+[2020.07.16-02.26.36:700][539]LogPlayLevel: PIE: World Init took: (0.005607s)
+[2020.07.16-02.26.36:701][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.016964s)
+[2020.07.16-02.26.36:994][539]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.26.36:996][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.26.36:996][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.26.36:998][539]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.26.36:998][539]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.26.37:028][539]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.26.37:028][539]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.26.37:301][539]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.26.37:301][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.26.37:302][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.26.37:302][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.26.37:302][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.26.37:347][539]LogInit: FAudioDevice initialized.
+[2020.07.16-02.26.37:365][539]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.26.37:368][539]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.26.37
+[2020.07.16-02.26.37:368][539]LogWorld: Bringing up level for play took: 0.001300
+[2020.07.16-02.26.37:368][539]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.07.16-02.26.37:376][539]PIE: Server logged in
+[2020.07.16-02.26.37:379][539]PIE: Play in editor total start time 0.728 seconds.
+[2020.07.16-02.27.23:945][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.27.23:945][266]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.27.23:945][266]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.27.23:946][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.27.24:015][266]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.27.24:026][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.27.24:289][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.27.24:291][266]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268CCF2FD80), frame # 47266
+[2020.07.16-02.27.24:291][266]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268CDEAEA00), frame # 47266
+[2020.07.16-02.27.24:304][266]LogUObjectHash: Compacting FUObjectHashTables data took  11.84ms
+[2020.07.16-02.27.24:511][267]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.07.16-02.28.12:466][681]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.28.12:723][681]LogUObjectHash: Compacting FUObjectHashTables data took   8.94ms
+[2020.07.16-02.28.13:254][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-02.28.13:498][687]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller4B506D5C4AD2388F6C1215AB46D8536C.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-02.28.13:582][687]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-02.28.13:583][687]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.28.13:971][695]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.28.14:127][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.28.14:128][695]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:28:14 PM)
+[2020.07.16-02.28.14:128][695]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.28.14:143][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014603s)
+[2020.07.16-02.28.14:147][695]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.28.14:147][695]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026892F59000), frame # 47695
+[2020.07.16-02.28.14:147][695]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026894B56980), frame # 47695
+[2020.07.16-02.28.14:149][695]LogPlayLevel: PIE: World Init took: (0.005313s)
+[2020.07.16-02.28.14:149][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.020628s)
+[2020.07.16-02.28.14:278][695]LogUObjectHash: Compacting FUObjectHashTables data took  14.64ms
+[2020.07.16-02.28.14:280][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.28.14:281][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.28.14:281][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.28.14:283][695]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.28.14:283][695]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.28.14:304][695]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.28.14:304][695]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.28.15:099][695]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.28.15:100][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.28.15:100][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.28.15:100][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.28.15:101][695]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.28.15:134][695]LogInit: FAudioDevice initialized.
+[2020.07.16-02.28.15:203][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.28.15:204][695]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.28.15:207][695]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.28.15
+[2020.07.16-02.28.15:207][695]LogWorld: Bringing up level for play took: 0.001592
+[2020.07.16-02.28.15:208][695]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.07.16-02.28.15:228][695]PIE: Server logged in
+[2020.07.16-02.28.15:230][695]PIE: Play in editor total start time 1.123 seconds.
+[2020.07.16-02.28.22:551][774]LogSlate: Window 'PAINT Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.16-02.28.22:732][774]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.28.22:733][774]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.28.22:734][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.28.22:762][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.28.22:778][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.28.23:212][774]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026894B56980), frame # 47774
+[2020.07.16-02.28.23:212][774]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026892F59000), frame # 47774
+[2020.07.16-02.28.23:224][774]LogUObjectHash: Compacting FUObjectHashTables data took  11.29ms
+[2020.07.16-02.28.24:276][775]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.07.16-02.29.03:194][399]BlueprintLog: New page: Compile BP_Baller
+[2020.07.16-02.29.03:429][399]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2020.07.16-02.29.05:292][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset" SILENT=true
+[2020.07.16-02.29.05:563][429]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_Baller17118038487B2D1DF1384995E8436E0C.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_Baller.uasset'
+[2020.07.16-02.29.05:662][429]AssetCheck: New page: Asset Save: BP_Baller
+[2020.07.16-02.29.05:662][429]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.16-02.30.58:209][944]Candidate modules for hot reload:
+[2020.07.16-02.30.58:209][944]  PAINT
+[2020.07.16-02.30.58:211][944]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2175 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.30.58:225][944]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.32.23:111][ 37]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:32:23 PM
+[2020.07.16-02.32.23:111][ 37]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.32.23:111][ 37]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.32.23:111][ 37]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.32.23:111][ 37]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2175.lib
+[2020.07.16-02.32.23:112][ 37]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2175.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2175.exp
+[2020.07.16-02.32.23:113][ 37]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2175.dll
+[2020.07.16-02.32.23:113][ 37]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2175.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2175.suppressed.exp
+[2020.07.16-02.32.23:113][ 37]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.32.23:113][ 37]CompilerResultsLog: Total time in Parallel executor: 69.86 seconds
+[2020.07.16-02.32.23:113][ 37]CompilerResultsLog: Total execution time: 82.90 seconds
+[2020.07.16-02.32.23:113][ 37]LogMainFrame: MainFrame: Module compiling took 84.980 seconds
+[2020.07.16-02.32.23:492][ 37]LogHotReload: Re-instancing Baller after hot-reload.
+[2020.07.16-02.32.23:926][ 37]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0016 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.32.23:940][ 37]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.32.24:558][ 37]LogContentBrowser: Native class hierarchy populated in 0.0333 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.32.24:558][ 37]Display: HotReload took 86.4s.
+[2020.07.16-02.32.28:252][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.32.28:572][ 71]LogUObjectHash: Compacting FUObjectHashTables data took  24.24ms
+[2020.07.16-02.32.28:716][ 71]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester7F678CB24628C6DC886CB7872639DD4A.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.32.28:917][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.32.29:048][ 71]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData97579693460580449F0FC98301DCB3BA.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.32.29:111][ 71]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.32.29:111][ 71]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.32.29:112][ 71]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.32.29:636][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.32.29:850][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.32.29:850][ 81]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:32:29 PM)
+[2020.07.16-02.32.29:850][ 81]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.32.29:862][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011596s)
+[2020.07.16-02.32.29:866][ 81]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.32.29:866][ 81]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268B3AAEA00), frame # 50081
+[2020.07.16-02.32.29:866][ 81]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026894376C00), frame # 50081
+[2020.07.16-02.32.29:867][ 81]LogPlayLevel: PIE: World Init took: (0.004942s)
+[2020.07.16-02.32.29:867][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.017039s)
+[2020.07.16-02.32.30:108][ 81]LogUObjectHash: Compacting FUObjectHashTables data took  13.45ms
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.32.30:111][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.32.30:111][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.32.30:113][ 81]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.32.30:113][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.32.30:160][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.32.30:160][ 81]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.32.30:581][ 81]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.32.30:581][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.32.30:581][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.32.30:581][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.32.30:582][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.32.30:602][ 81]LogInit: FAudioDevice initialized.
+[2020.07.16-02.32.30:648][ 81]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.32.30:651][ 81]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.32.30
+[2020.07.16-02.32.30:652][ 81]LogWorld: Bringing up level for play took: 0.001535
+[2020.07.16-02.32.30:652][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.07.16-02.32.30:660][ 81]PIE: Server logged in
+[2020.07.16-02.32.30:674][ 81]PIE: Play in editor total start time 0.87 seconds.
+[2020.07.16-02.32.30:699][ 82]LogHttp: Warning: 00000268DCEA8F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B309D97F2-4828-671E-BE8D-9A8C87E1E9D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=023a58934bb7660ad3be938b62c9e3bf%7Ca6913804a3984dc4b1a26f3e7b9281dc%7C8b70d36b-ffd7-4693-b8e2-b42a2c7f141a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.07.16-02.32.30:699][ 82]LogHttp: Warning: 00000268DCEA8F00: request failed, libcurl error: 0 (No error)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26871d17f70 [can pipeline])
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.224.83.223) port 443 (#39))
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 7 (Closing connection 39)
+[2020.07.16-02.32.30:700][ 82]LogHttp: Warning: 00000268DCEA8F00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.07.16-02.32.31:058][ 83]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B309D97F2-4828-671E-BE8D-9A8C87E1E9D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.1-13594126%2B%2B%2BUE4%2BRelease-4.25&UserID=023a58934bb7660ad3be938b62c9e3bf%7Ca6913804a3984dc4b1a26f3e7b9281dc%7C8b70d36b-ffd7-4693-b8e2-b42a2c7f141a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.07.16-02.33.42:127][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.33.42:127][240]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.33.42:128][240]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.33.42:128][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.33.42:258][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.33.42:272][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.33.42:515][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.33.42:517][240]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026894376C00), frame # 51240
+[2020.07.16-02.33.42:517][240]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268B3AAEA00), frame # 51240
+[2020.07.16-02.33.42:528][240]LogUObjectHash: Compacting FUObjectHashTables data took  10.73ms
+[2020.07.16-02.33.42:684][241]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.07.16-02.34.59:544][743]Candidate modules for hot reload:
+[2020.07.16-02.34.59:544][743]  PAINT
+[2020.07.16-02.34.59:546][743]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,5085 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.34.59:560][743]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.36.18:574][727]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:36:18 PM
+[2020.07.16-02.36.18:575][727]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.36.18:575][727]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.36.18:575][727]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.36.18:575][727]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.36.18:575][727]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.36.18:575][727]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.36.18:575][727]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.36.18:576][727]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.36.18:576][727]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.36.18:576][727]CompilerResultsLog:   [2/4] UE4Editor-PAINT-5085.lib
+[2020.07.16-02.36.18:576][727]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-5085.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-5085.exp
+[2020.07.16-02.36.18:576][727]CompilerResultsLog:   [3/4] UE4Editor-PAINT-5085.dll
+[2020.07.16-02.36.18:577][727]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-5085.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-5085.suppressed.exp
+[2020.07.16-02.36.18:577][727]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.36.18:577][727]CompilerResultsLog: Total time in Parallel executor: 64.23 seconds
+[2020.07.16-02.36.18:577][727]CompilerResultsLog: Total execution time: 77.19 seconds
+[2020.07.16-02.36.18:578][727]LogMainFrame: MainFrame: Module compiling took 79.109 seconds
+[2020.07.16-02.36.18:907][727]LogHotReload: Re-instancing Baller after hot-reload.
+[2020.07.16-02.36.19:310][727]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.36.19:324][727]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.36.19:960][727]LogContentBrowser: Native class hierarchy populated in 0.0356 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.36.19:960][727]Display: HotReload took 80.5s.
+[2020.07.16-02.36.24:453][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.36.24:862][767]LogUObjectHash: Compacting FUObjectHashTables data took  18.87ms
+[2020.07.16-02.36.24:997][767]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester3E263FD747A21DF40E5563BB55A52EA4.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.36.25:202][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.36.25:296][767]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData9D832A2E475CAFADD555579F5DCE396D.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.36.25:370][767]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.36.25:370][767]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.36.25:370][767]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.36.25:745][773]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.36.25:894][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.36.25:895][773]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:36:25 PM)
+[2020.07.16-02.36.25:895][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.36.25:906][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010337s)
+[2020.07.16-02.36.25:909][773]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.36.25:909][773]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268DE254200), frame # 52773
+[2020.07.16-02.36.25:909][773]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268937BC7C0), frame # 52773
+[2020.07.16-02.36.25:910][773]LogPlayLevel: PIE: World Init took: (0.004086s)
+[2020.07.16-02.36.25:910][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.014975s)
+[2020.07.16-02.36.26:159][773]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2020.07.16-02.36.26:161][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.36.26:161][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.36.26:162][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.36.26:162][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.36.26:162][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.36.26:162][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.36.26:162][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.36.26:162][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.36.26:163][773]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.36.26:164][773]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.36.26:188][773]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.36.26:188][773]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.36.26:315][773]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.36.26:315][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.36.26:315][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.36.26:315][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.36.26:316][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.36.26:363][773]LogInit: FAudioDevice initialized.
+[2020.07.16-02.36.26:388][773]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.36.26:391][773]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.36.26
+[2020.07.16-02.36.26:392][773]LogWorld: Bringing up level for play took: 0.001474
+[2020.07.16-02.36.26:392][773]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.07.16-02.36.26:401][773]PIE: Server logged in
+[2020.07.16-02.36.26:403][773]PIE: Play in editor total start time 0.535 seconds.
+[2020.07.16-02.36.31:761][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.36.31:762][847]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.36.31:762][847]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.36.31:763][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.36.31:877][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.36.31:894][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.36.32:234][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.36.32:236][847]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268937BC7C0), frame # 52847
+[2020.07.16-02.36.32:236][847]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268DE254200), frame # 52847
+[2020.07.16-02.36.32:246][847]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2020.07.16-02.36.33:261][848]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.07.16-02.36.42:040][881]Candidate modules for hot reload:
+[2020.07.16-02.36.42:040][881]  PAINT
+[2020.07.16-02.36.42:042][881]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2575 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.36.42:052][881]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.38.13:732][ 35]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:38:13 PM
+[2020.07.16-02.38.13:732][ 35]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.38.13:732][ 35]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.38.13:733][ 35]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.38.13:733][ 35]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.38.13:733][ 35]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2575.lib
+[2020.07.16-02.38.13:734][ 35]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2575.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2575.exp
+[2020.07.16-02.38.13:735][ 35]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2575.dll
+[2020.07.16-02.38.13:735][ 35]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2575.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2575.suppressed.exp
+[2020.07.16-02.38.13:735][ 35]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.38.13:736][ 35]CompilerResultsLog: Total time in Parallel executor: 77.21 seconds
+[2020.07.16-02.38.13:736][ 35]CompilerResultsLog: Total execution time: 90.32 seconds
+[2020.07.16-02.38.13:736][ 35]LogMainFrame: MainFrame: Module compiling took 91.767 seconds
+[2020.07.16-02.38.13:961][ 35]LogHotReload: Re-instancing Baller after hot-reload.
+[2020.07.16-02.38.14:385][ 35]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.38.14:398][ 35]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.38.15:079][ 35]LogContentBrowser: Native class hierarchy populated in 0.0357 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.38.15:079][ 35]Display: HotReload took 93.1s.
+[2020.07.16-02.38.24:595][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.38.24:895][136]LogUObjectHash: Compacting FUObjectHashTables data took  16.61ms
+[2020.07.16-02.38.25:017][136]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterC1F4DF2D42D6964E4DF84E884F262005.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.38.25:230][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.38.25:374][136]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataCE9C088A4067617F7722C4A6B514B97B.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.38.25:423][136]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.38.25:423][136]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.38.25:423][136]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.38.27:769][170]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.38.27:986][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.38.27:986][170]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:38:27 PM)
+[2020.07.16-02.38.27:986][170]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.38.28:000][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013440s)
+[2020.07.16-02.38.28:004][170]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.38.28:004][170]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002689A8A3600), frame # 54170
+[2020.07.16-02.38.28:004][170]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268E32FC680), frame # 54170
+[2020.07.16-02.38.28:005][170]LogPlayLevel: PIE: World Init took: (0.004957s)
+[2020.07.16-02.38.28:005][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.018885s)
+[2020.07.16-02.38.28:245][170]LogUObjectHash: Compacting FUObjectHashTables data took  12.42ms
+[2020.07.16-02.38.28:247][170]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.38.28:247][170]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.38.28:248][170]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.38.28:248][170]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.38.28:248][170]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.38.28:248][170]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.38.28:248][170]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.38.28:248][170]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.38.28:250][170]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.38.28:250][170]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.38.28:293][170]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.38.28:293][170]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.38.28:568][170]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.38.28:568][170]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.38.28:569][170]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.38.28:569][170]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.38.28:570][170]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.38.28:617][170]LogInit: FAudioDevice initialized.
+[2020.07.16-02.38.28:644][170]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.38.28:647][170]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.38.28
+[2020.07.16-02.38.28:647][170]LogWorld: Bringing up level for play took: 0.001806
+[2020.07.16-02.38.28:648][170]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.07.16-02.38.28:655][170]PIE: Server logged in
+[2020.07.16-02.38.28:658][170]PIE: Play in editor total start time 0.702 seconds.
+[2020.07.16-02.39.30:595][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.39.30:596][ 85]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.39.30:596][ 85]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.39.30:597][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.39.30:684][ 85]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.39.30:696][ 85]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.39.30:923][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.39.30:930][ 85]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268E32FC680), frame # 55085
+[2020.07.16-02.39.30:931][ 85]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002689A8A3600), frame # 55085
+[2020.07.16-02.39.30:946][ 85]LogUObjectHash: Compacting FUObjectHashTables data took  14.49ms
+[2020.07.16-02.39.31:182][ 86]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.07.16-02.40.27:033][348]Candidate modules for hot reload:
+[2020.07.16-02.40.27:033][348]  PAINT
+[2020.07.16-02.40.27:034][348]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,7951 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.40.27:047][348]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.41.41:191][254]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:41:41 PM
+[2020.07.16-02.41.41:192][254]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.41.41:192][254]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.41.41:193][254]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.41.41:193][254]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.41.41:193][254]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.41.41:194][254]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.41.41:194][254]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.41.41:194][254]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.41.41:195][254]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.41.41:195][254]CompilerResultsLog:   [2/4] UE4Editor-PAINT-7951.lib
+[2020.07.16-02.41.41:195][254]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7951.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7951.exp
+[2020.07.16-02.41.41:195][254]CompilerResultsLog:   [3/4] UE4Editor-PAINT-7951.dll
+[2020.07.16-02.41.41:195][254]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7951.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7951.suppressed.exp
+[2020.07.16-02.41.41:196][254]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.41.41:196][254]CompilerResultsLog: Total time in Parallel executor: 59.47 seconds
+[2020.07.16-02.41.41:196][254]CompilerResultsLog: Total execution time: 72.36 seconds
+[2020.07.16-02.41.41:197][254]LogMainFrame: MainFrame: Module compiling took 74.221 seconds
+[2020.07.16-02.41.41:636][254]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0018 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.41.41:652][254]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.41.42:368][254]LogContentBrowser: Native class hierarchy populated in 0.0361 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.41.42:368][254]Display: HotReload took 75.4s.
+[2020.07.16-02.41.47:435][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.41.47:734][303]LogUObjectHash: Compacting FUObjectHashTables data took  13.99ms
+[2020.07.16-02.41.47:859][303]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterE122E14C4A0116E595D598A09BC45201.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.41.48:091][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.41.48:197][303]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataC953022E41741A65C58BE2B243F1C80F.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.41.48:247][303]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.41.48:247][303]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.41.48:248][303]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.41.48:931][315]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.41.49:166][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.41.49:166][315]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:41:49 PM)
+[2020.07.16-02.41.49:167][315]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.41.49:178][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010697s)
+[2020.07.16-02.41.49:182][315]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.41.49:182][315]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026898977A00), frame # 56315
+[2020.07.16-02.41.49:182][315]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268D44E2200), frame # 56315
+[2020.07.16-02.41.49:183][315]LogPlayLevel: PIE: World Init took: (0.005343s)
+[2020.07.16-02.41.49:183][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.016548s)
+[2020.07.16-02.41.49:477][315]LogUObjectHash: Compacting FUObjectHashTables data took  12.01ms
+[2020.07.16-02.41.49:479][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.41.49:479][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.41.49:479][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.41.49:479][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.41.49:479][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.41.49:480][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.41.49:480][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.41.49:480][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.41.49:482][315]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.41.49:482][315]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.41.49:514][315]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.41.49:514][315]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.41.49:815][315]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.41.49:815][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.41.49:815][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.41.49:815][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.41.49:817][315]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.41.49:862][315]LogInit: FAudioDevice initialized.
+[2020.07.16-02.41.49:885][315]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.41.49:887][315]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.41.49
+[2020.07.16-02.41.49:888][315]LogWorld: Bringing up level for play took: 0.001698
+[2020.07.16-02.41.49:888][315]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.07.16-02.41.49:910][315]PIE: Server logged in
+[2020.07.16-02.41.49:913][315]PIE: Play in editor total start time 0.795 seconds.
+[2020.07.16-02.42.49:958][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.42.49:959][209]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.42.49:960][209]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.42.49:961][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.42.50:057][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.42.50:069][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.42.50:279][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.42.50:282][209]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268D44E2200), frame # 57209
+[2020.07.16-02.42.50:282][209]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026898977A00), frame # 57209
+[2020.07.16-02.42.50:296][209]LogUObjectHash: Compacting FUObjectHashTables data took  12.70ms
+[2020.07.16-02.42.50:493][210]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.07.16-02.42.51:335][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.42.51:562][217]LogUObjectHash: Compacting FUObjectHashTables data took  10.33ms
+[2020.07.16-02.42.51:712][217]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterA0D8C96F4F17AF9DC12FC59D1572E4F6.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.42.51:933][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.42.52:041][217]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData2EC43BB54A1DAE6A519152AEB966042B.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.42.52:093][217]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.42.52:094][217]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.42.52:094][217]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.46.44:964][942]Candidate modules for hot reload:
+[2020.07.16-02.46.44:965][942]  PAINT
+[2020.07.16-02.46.44:966][942]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,8591 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.46.44:981][942]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.48.20:845][ 90]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:48:20 PM
+[2020.07.16-02.48.20:846][ 90]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.48.20:846][ 90]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.48.20:846][ 90]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.48.20:847][ 90]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.48.20:847][ 90]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.48.20:847][ 90]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.48.20:847][ 90]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.48.20:847][ 90]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.48.20:848][ 90]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.48.20:848][ 90]CompilerResultsLog:   [2/4] UE4Editor-PAINT-8591.lib
+[2020.07.16-02.48.20:848][ 90]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8591.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8591.exp
+[2020.07.16-02.48.20:848][ 90]CompilerResultsLog:   [3/4] UE4Editor-PAINT-8591.dll
+[2020.07.16-02.48.20:849][ 90]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8591.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8591.suppressed.exp
+[2020.07.16-02.48.20:849][ 90]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.48.20:849][ 90]CompilerResultsLog: Total time in Parallel executor: 79.36 seconds
+[2020.07.16-02.48.20:850][ 90]CompilerResultsLog: Total execution time: 93.32 seconds
+[2020.07.16-02.48.20:850][ 90]LogMainFrame: MainFrame: Module compiling took 95.963 seconds
+[2020.07.16-02.48.21:189][ 90]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.48.21:203][ 90]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.48.22:076][ 90]LogContentBrowser: Native class hierarchy populated in 0.0358 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.48.22:076][ 90]Display: HotReload took 97.2s.
+[2020.07.16-02.48.27:727][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.48.28:165][143]LogUObjectHash: Compacting FUObjectHashTables data took  31.94ms
+[2020.07.16-02.48.28:367][143]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterA822EF614981635147D9F4A237306150.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.48.28:541][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.48.28:686][143]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataDE4494CE44A22C232925A6B66A55A653.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.48.28:733][143]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.48.28:733][143]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.48.28:734][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.49.58:572][468]Candidate modules for hot reload:
+[2020.07.16-02.49.58:573][468]  PAINT
+[2020.07.16-02.49.58:574][468]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,9395 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.49.58:589][468]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.50.04:978][542]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.16-02.51.30:251][562]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:51:30 PM
+[2020.07.16-02.51.30:252][562]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.51.30:252][562]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.51.30:252][562]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.51.30:252][562]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.51.30:252][562]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.51.30:252][562]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.51.30:252][562]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:   [2/4] UE4Editor-PAINT-9395.lib
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-9395.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-9395.exp
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:   [3/4] UE4Editor-PAINT-9395.dll
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-9395.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-9395.suppressed.exp
+[2020.07.16-02.51.30:253][562]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.51.30:254][562]CompilerResultsLog: Total time in Parallel executor: 71.08 seconds
+[2020.07.16-02.51.30:254][562]CompilerResultsLog: Total execution time: 88.95 seconds
+[2020.07.16-02.51.30:254][562]LogMainFrame: MainFrame: Module compiling took 91.764 seconds
+[2020.07.16-02.51.30:573][562]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.51.30:589][562]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.51.31:460][562]LogContentBrowser: Native class hierarchy populated in 0.0395 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.51.31:460][562]Display: HotReload took 93.0s.
+[2020.07.16-02.51.36:542][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-02.51.36:972][610]LogUObjectHash: Compacting FUObjectHashTables data took  22.14ms
+[2020.07.16-02.51.37:119][610]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester35D76BF040BDF16851EEF1B989622D00.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-02.51.37:324][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-02.51.37:417][610]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData7765CBBF41BCC5D3DB22F9A550E2E8D9.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-02.51.37:485][610]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-02.51.37:486][610]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-02.51.37:486][610]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-02.51.39:169][633]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.51.39:359][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.51.39:359][633]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:51:39 PM)
+[2020.07.16-02.51.39:360][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.51.39:372][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011775s)
+[2020.07.16-02.51.39:376][633]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.51.39:377][633]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000026853E62E00), frame # 60633
+[2020.07.16-02.51.39:377][633]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268CCE6F880), frame # 60633
+[2020.07.16-02.51.39:378][633]LogPlayLevel: PIE: World Init took: (0.005233s)
+[2020.07.16-02.51.39:378][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.017588s)
+[2020.07.16-02.51.39:629][633]LogUObjectHash: Compacting FUObjectHashTables data took  15.74ms
+[2020.07.16-02.51.39:634][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.51.39:634][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.51.39:634][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.51.39:634][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.51.39:634][633]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.51.39:635][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.51.39:635][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.51.39:635][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.51.39:636][633]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.51.39:637][633]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.51.39:667][633]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.51.39:667][633]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.51.39:923][633]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.51.39:923][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.51.39:923][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.51.39:924][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.51.39:925][633]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.51.39:942][633]LogInit: FAudioDevice initialized.
+[2020.07.16-02.51.39:964][633]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.51.39:967][633]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.51.39
+[2020.07.16-02.51.39:968][633]LogWorld: Bringing up level for play took: 0.002213
+[2020.07.16-02.51.39:968][633]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.07.16-02.51.39:977][633]PIE: Server logged in
+[2020.07.16-02.51.39:980][633]PIE: Play in editor total start time 0.655 seconds.
+[2020.07.16-02.52.32:402][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.52.32:402][423]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.52.32:404][423]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.52.32:405][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.52.32:506][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.52.32:519][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.52.32:615][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.52.32:691][423]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268CCE6F880), frame # 61423
+[2020.07.16-02.52.32:692][423]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000026853E62E00), frame # 61423
+[2020.07.16-02.52.32:701][423]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
+[2020.07.16-02.52.32:879][424]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.07.16-02.52.36:371][453]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/ABP_Baller.ABP_Baller
+[2020.07.16-02.52.36:424][453]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.16-02.52.40:336][454]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.07.16-02.54.32:892][208]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.54.33:009][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.54.33:010][208]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:54:33 PM)
+[2020.07.16-02.54.33:010][208]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.54.33:020][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009859s)
+[2020.07.16-02.54.33:024][208]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.54.33:024][208]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002689BEAE600), frame # 63208
+[2020.07.16-02.54.33:025][208]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002689C171080), frame # 63208
+[2020.07.16-02.54.33:025][208]LogPlayLevel: PIE: World Init took: (0.004817s)
+[2020.07.16-02.54.33:026][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.015366s)
+[2020.07.16-02.54.33:155][208]LogUObjectHash: Compacting FUObjectHashTables data took  10.04ms
+[2020.07.16-02.54.33:163][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.54.33:163][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.54.33:163][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.54.33:164][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.54.33:164][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.54.33:164][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.54.33:164][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.54.33:164][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.54.33:165][208]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.54.33:166][208]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.54.33:185][208]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.54.33:185][208]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.54.33:331][208]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.54.33:331][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.54.33:331][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.54.33:332][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.54.33:333][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.54.33:336][208]LogInit: FAudioDevice initialized.
+[2020.07.16-02.54.33:411][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.54.33:412][208]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.54.33:415][208]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.54.33
+[2020.07.16-02.54.33:415][208]LogWorld: Bringing up level for play took: 0.001905
+[2020.07.16-02.54.33:416][208]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.07.16-02.54.33:428][208]PIE: Server logged in
+[2020.07.16-02.54.33:432][208]PIE: Play in editor total start time 0.438 seconds.
+[2020.07.16-02.55.09:655][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.55.09:656][522]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.55.09:657][522]LogSlate: Window 'PAINT Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.07.16-02.55.09:722][522]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.55.09:723][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.55.09:744][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.55.09:761][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.55.10:108][522]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002689C171080), frame # 63522
+[2020.07.16-02.55.10:108][522]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002689BEAE600), frame # 63522
+[2020.07.16-02.55.10:120][522]LogUObjectHash: Compacting FUObjectHashTables data took  11.14ms
+[2020.07.16-02.55.10:292][523]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.07.16-02.55.52:028][826]Candidate modules for hot reload:
+[2020.07.16-02.55.52:028][826]  PAINT
+[2020.07.16-02.55.52:029][826]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,3845 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.55.52:039][826]Warning: Starting HotReload took  0.1s.
+[2020.07.16-02.57.48:461][203]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 6:57:48 PM
+[2020.07.16-02.57.48:461][203]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-02.57.48:461][203]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-02.57.48:462][203]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-02.57.48:462][203]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-02.57.48:462][203]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-02.57.48:462][203]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-02.57.48:462][203]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-02.57.48:462][203]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-02.57.48:463][203]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-02.57.48:463][203]CompilerResultsLog:   [2/4] UE4Editor-PAINT-3845.lib
+[2020.07.16-02.57.48:463][203]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3845.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3845.exp
+[2020.07.16-02.57.48:463][203]CompilerResultsLog:   [3/4] UE4Editor-PAINT-3845.dll
+[2020.07.16-02.57.48:463][203]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3845.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-3845.suppressed.exp
+[2020.07.16-02.57.48:464][203]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-02.57.48:464][203]CompilerResultsLog: Total time in Parallel executor: 99.75 seconds
+[2020.07.16-02.57.48:464][203]CompilerResultsLog: Total execution time: 114.67 seconds
+[2020.07.16-02.57.48:464][203]LogMainFrame: MainFrame: Module compiling took 116.516 seconds
+[2020.07.16-02.57.48:868][203]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0022 seconds. Added 2 classes and 2 folders.
+[2020.07.16-02.57.48:887][203]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-02.57.49:692][203]LogContentBrowser: Native class hierarchy populated in 0.0425 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-02.57.49:692][203]Display: HotReload took 117.7s.
+[2020.07.16-02.57.53:483][237]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-02.57.53:664][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-02.57.53:664][237]PIE: New page: PIE session: Tester (Jul 15, 2020, 6:57:53 PM)
+[2020.07.16-02.57.53:666][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-02.57.53:681][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013237s)
+[2020.07.16-02.57.53:685][237]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-02.57.53:686][237]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268EFB86200), frame # 65237
+[2020.07.16-02.57.53:686][237]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268EFBAEAC0), frame # 65237
+[2020.07.16-02.57.53:686][237]LogPlayLevel: PIE: World Init took: (0.005499s)
+[2020.07.16-02.57.53:687][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.020580s)
+[2020.07.16-02.57.53:993][237]LogUObjectHash: Compacting FUObjectHashTables data took  21.94ms
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-02.57.54:001][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-02.57.54:002][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-02.57.54:002][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-02.57.54:004][237]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-02.57.54:004][237]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-02.57.54:053][237]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-02.57.54:053][237]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-02.57.54:528][237]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-02.57.54:528][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-02.57.54:528][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-02.57.54:528][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-02.57.54:530][237]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-02.57.54:546][237]LogInit: FAudioDevice initialized.
+[2020.07.16-02.57.54:570][237]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-02.57.54:572][237]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-22.57.54
+[2020.07.16-02.57.54:573][237]LogWorld: Bringing up level for play took: 0.001507
+[2020.07.16-02.57.54:573][237]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.07.16-02.57.54:580][237]PIE: Server logged in
+[2020.07.16-02.57.54:583][237]PIE: Play in editor total start time 0.956 seconds.
+[2020.07.16-02.58.04:379][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.58.04:380][376]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-02.58.04:381][376]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-02.58.04:381][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.58.04:515][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-02.58.04:531][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-02.58.04:993][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-02.58.05:000][376]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268EFBAEAC0), frame # 65376
+[2020.07.16-02.58.05:001][376]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268EFB86200), frame # 65376
+[2020.07.16-02.58.05:017][376]LogUObjectHash: Compacting FUObjectHashTables data took  15.04ms
+[2020.07.16-02.58.05:148][377]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.07.16-02.59.14:892][595]Candidate modules for hot reload:
+[2020.07.16-02.59.14:892][595]  PAINT
+[2020.07.16-02.59.14:894][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,8494 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-02.59.14:947][595]Warning: Starting HotReload took  0.1s.
+[2020.07.16-03.00.48:624][756]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 7:00:48 PM
+[2020.07.16-03.00.48:625][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-03.00.48:625][756]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-03.00.48:626][756]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-03.00.48:626][756]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-03.00.48:626][756]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-03.00.48:626][756]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-03.00.48:627][756]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-03.00.48:627][756]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-03.00.48:627][756]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-03.00.48:627][756]CompilerResultsLog:   [2/4] UE4Editor-PAINT-8494.lib
+[2020.07.16-03.00.48:628][756]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8494.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8494.exp
+[2020.07.16-03.00.48:628][756]CompilerResultsLog:   [3/4] UE4Editor-PAINT-8494.dll
+[2020.07.16-03.00.48:628][756]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8494.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-8494.suppressed.exp
+[2020.07.16-03.00.48:629][756]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-03.00.48:629][756]CompilerResultsLog: Total time in Parallel executor: 72.75 seconds
+[2020.07.16-03.00.48:629][756]CompilerResultsLog: Total execution time: 91.14 seconds
+[2020.07.16-03.00.48:629][756]LogMainFrame: MainFrame: Module compiling took 93.820 seconds
+[2020.07.16-03.00.48:996][756]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0020 seconds. Added 2 classes and 2 folders.
+[2020.07.16-03.00.49:017][756]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-03.00.49:909][756]LogContentBrowser: Native class hierarchy populated in 0.0357 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-03.00.49:909][756]Display: HotReload took 95.1s.
+[2020.07.16-03.00.53:818][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-03.00.54:181][792]LogUObjectHash: Compacting FUObjectHashTables data took  26.68ms
+[2020.07.16-03.00.54:361][792]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester4C90DB7D41CB96BF8048D8883AE4CD44.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-03.00.54:575][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-03.00.54:740][792]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData1DF39C86427A50701E4584A9D02EE177.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-03.00.54:796][792]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-03.00.54:796][792]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-03.00.54:796][792]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-03.00.55:144][799]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-03.00.55:352][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-03.00.55:353][799]PIE: New page: PIE session: Tester (Jul 15, 2020, 7:00:55 PM)
+[2020.07.16-03.00.55:353][799]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-03.00.55:364][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010221s)
+[2020.07.16-03.00.55:367][799]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-03.00.55:367][799]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002689BEAD200), frame # 66799
+[2020.07.16-03.00.55:368][799]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026853B46AC0), frame # 66799
+[2020.07.16-03.00.55:368][799]LogPlayLevel: PIE: World Init took: (0.004503s)
+[2020.07.16-03.00.55:368][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.015231s)
+[2020.07.16-03.00.55:695][799]LogUObjectHash: Compacting FUObjectHashTables data took  16.21ms
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-03.00.55:700][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-03.00.55:701][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-03.00.55:701][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-03.00.55:703][799]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-03.00.55:703][799]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-03.00.55:730][799]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-03.00.55:731][799]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-03.00.56:314][799]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-03.00.56:315][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-03.00.56:315][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-03.00.56:315][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-03.00.56:316][799]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-03.00.56:318][799]LogInit: FAudioDevice initialized.
+[2020.07.16-03.00.56:340][799]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-03.00.56:342][799]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-23.00.56
+[2020.07.16-03.00.56:343][799]LogWorld: Bringing up level for play took: 0.001558
+[2020.07.16-03.00.56:343][799]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.07.16-03.00.56:351][799]PIE: Server logged in
+[2020.07.16-03.00.56:354][799]PIE: Play in editor total start time 1.03 seconds.
+[2020.07.16-03.01.16:667][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.01.16:667][102]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-03.01.16:669][102]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-03.01.16:670][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.01.16:774][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-03.01.16:789][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.01.17:039][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.01.17:194][102]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026853B46AC0), frame # 67102
+[2020.07.16-03.01.17:195][102]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002689BEAD200), frame # 67102
+[2020.07.16-03.01.17:208][102]LogUObjectHash: Compacting FUObjectHashTables data took  13.26ms
+[2020.07.16-03.01.17:346][103]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.07.16-03.02.32:647][328]Candidate modules for hot reload:
+[2020.07.16-03.02.32:647][328]  PAINT
+[2020.07.16-03.02.32:648][328]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,1655 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-03.02.32:662][328]Warning: Starting HotReload took  0.1s.
+[2020.07.16-03.04.11:219][550]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 7:04:11 PM
+[2020.07.16-03.04.11:220][550]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-03.04.11:220][550]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-03.04.11:221][550]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-03.04.11:221][550]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-03.04.11:221][550]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-03.04.11:221][550]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-03.04.11:221][550]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-03.04.11:221][550]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-03.04.11:221][550]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-03.04.11:222][550]CompilerResultsLog:   [2/4] UE4Editor-PAINT-1655.lib
+[2020.07.16-03.04.11:222][550]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1655.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1655.exp
+[2020.07.16-03.04.11:222][550]CompilerResultsLog:   [3/4] UE4Editor-PAINT-1655.dll
+[2020.07.16-03.04.11:222][550]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1655.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1655.suppressed.exp
+[2020.07.16-03.04.11:222][550]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-03.04.11:222][550]CompilerResultsLog: Total time in Parallel executor: 82.30 seconds
+[2020.07.16-03.04.11:223][550]CompilerResultsLog: Total execution time: 96.72 seconds
+[2020.07.16-03.04.11:223][550]LogMainFrame: MainFrame: Module compiling took 98.654 seconds
+[2020.07.16-03.04.11:569][550]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0020 seconds. Added 2 classes and 2 folders.
+[2020.07.16-03.04.11:592][550]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-03.04.12:496][550]LogContentBrowser: Native class hierarchy populated in 0.0372 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-03.04.12:496][550]Display: HotReload took 99.9s.
+[2020.07.16-03.04.17:420][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-03.04.17:866][592]LogUObjectHash: Compacting FUObjectHashTables data took  22.04ms
+[2020.07.16-03.04.18:003][592]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester7245A9634350D724B39C61818327B4D6.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-03.04.18:215][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-03.04.18:306][592]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataC5286FBB429E19B9DD47688D5025C0A4.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-03.04.18:382][592]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-03.04.18:383][592]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-03.04.18:383][592]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-03.04.20:508][622]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-03.04.20:704][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-03.04.20:704][622]PIE: New page: PIE session: Tester (Jul 15, 2020, 7:04:20 PM)
+[2020.07.16-03.04.20:705][622]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-03.04.20:717][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011395s)
+[2020.07.16-03.04.20:726][622]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-03.04.20:726][622]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268F4A88A00), frame # 68622
+[2020.07.16-03.04.20:726][622]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002689A842980), frame # 68622
+[2020.07.16-03.04.20:727][622]LogPlayLevel: PIE: World Init took: (0.009533s)
+[2020.07.16-03.04.20:727][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.021644s)
+[2020.07.16-03.04.21:054][622]LogUObjectHash: Compacting FUObjectHashTables data took  18.68ms
+[2020.07.16-03.04.21:061][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-03.04.21:061][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-03.04.21:061][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-03.04.21:061][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-03.04.21:063][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-03.04.21:063][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-03.04.21:063][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-03.04.21:063][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-03.04.21:065][622]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-03.04.21:065][622]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-03.04.21:100][622]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-03.04.21:100][622]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-03.04.21:801][622]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-03.04.21:801][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-03.04.21:801][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-03.04.21:802][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-03.04.21:802][622]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-03.04.21:805][622]LogInit: FAudioDevice initialized.
+[2020.07.16-03.04.21:837][622]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-03.04.21:840][622]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-23.04.21
+[2020.07.16-03.04.21:841][622]LogWorld: Bringing up level for play took: 0.002216
+[2020.07.16-03.04.21:841][622]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.07.16-03.04.21:848][622]PIE: Server logged in
+[2020.07.16-03.04.21:852][622]PIE: Play in editor total start time 1.192 seconds.
+[2020.07.16-03.05.05:899][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.05.05:900][264]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-03.05.05:902][264]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-03.05.05:902][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.05.06:009][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-03.05.06:025][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.05.06:313][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.05.06:315][264]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002689A842980), frame # 69264
+[2020.07.16-03.05.06:315][264]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268F4A88A00), frame # 69264
+[2020.07.16-03.05.06:331][264]LogUObjectHash: Compacting FUObjectHashTables data took  14.89ms
+[2020.07.16-03.05.06:523][265]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.07.16-03.06.16:427][503]Candidate modules for hot reload:
+[2020.07.16-03.06.16:427][503]  PAINT
+[2020.07.16-03.06.16:429][503]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2027 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-03.06.16:442][503]Warning: Starting HotReload took  0.1s.
+[2020.07.16-03.07.30:327][429]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 7:07:30 PM
+[2020.07.16-03.07.30:328][429]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-03.07.30:328][429]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-03.07.30:328][429]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-03.07.30:328][429]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-03.07.30:328][429]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-03.07.30:329][429]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-03.07.30:329][429]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-03.07.30:330][429]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-03.07.30:330][429]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-03.07.30:330][429]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2027.lib
+[2020.07.16-03.07.30:330][429]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2027.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2027.exp
+[2020.07.16-03.07.30:331][429]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2027.dll
+[2020.07.16-03.07.30:331][429]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2027.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2027.suppressed.exp
+[2020.07.16-03.07.30:331][429]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-03.07.30:331][429]CompilerResultsLog: Total time in Parallel executor: 57.86 seconds
+[2020.07.16-03.07.30:332][429]CompilerResultsLog: Total execution time: 71.54 seconds
+[2020.07.16-03.07.30:332][429]LogMainFrame: MainFrame: Module compiling took 73.990 seconds
+[2020.07.16-03.07.30:687][429]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2020.07.16-03.07.30:714][429]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-03.07.31:607][429]LogContentBrowser: Native class hierarchy populated in 0.0362 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-03.07.31:607][429]Display: HotReload took 75.3s.
+[2020.07.16-03.07.36:702][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-03.07.37:072][479]LogUObjectHash: Compacting FUObjectHashTables data took  19.33ms
+[2020.07.16-03.07.37:287][479]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester280B6E5F4BF14CC358A79790ADBD0C82.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-03.07.37:488][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-03.07.37:621][479]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData663DCC8743CF935BB5BDC881CD278B05.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-03.07.37:681][479]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-03.07.37:682][479]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-03.07.37:682][479]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-03.07.38:351][491]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-03.07.38:609][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-03.07.38:609][491]PIE: New page: PIE session: Tester (Jul 15, 2020, 7:07:38 PM)
+[2020.07.16-03.07.38:610][491]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-03.07.38:622][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011776s)
+[2020.07.16-03.07.38:627][491]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-03.07.38:628][491]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268F18ECA00), frame # 70491
+[2020.07.16-03.07.38:628][491]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000268D8EA6700), frame # 70491
+[2020.07.16-03.07.38:629][491]LogPlayLevel: PIE: World Init took: (0.006196s)
+[2020.07.16-03.07.38:629][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.018615s)
+[2020.07.16-03.07.38:974][491]LogUObjectHash: Compacting FUObjectHashTables data took  31.53ms
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-03.07.38:976][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-03.07.38:976][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-03.07.38:978][491]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-03.07.38:978][491]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-03.07.39:011][491]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-03.07.39:011][491]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-03.07.39:468][491]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-03.07.39:468][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-03.07.39:468][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-03.07.39:469][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-03.07.39:470][491]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-03.07.39:472][491]LogInit: FAudioDevice initialized.
+[2020.07.16-03.07.39:491][491]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-03.07.39:493][491]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-23.07.39
+[2020.07.16-03.07.39:494][491]LogWorld: Bringing up level for play took: 0.001499
+[2020.07.16-03.07.39:494][491]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.07.16-03.07.39:502][491]PIE: Server logged in
+[2020.07.16-03.07.39:504][491]PIE: Play in editor total start time 0.926 seconds.
+[2020.07.16-03.08.14:776][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.08.14:777][ 21]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-03.08.14:777][ 21]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-03.08.14:777][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.08.14:884][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-03.08.14:900][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.08.15:197][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.08.15:199][ 21]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000268D8EA6700), frame # 71021
+[2020.07.16-03.08.15:199][ 21]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268F18ECA00), frame # 71021
+[2020.07.16-03.08.15:214][ 21]LogUObjectHash: Compacting FUObjectHashTables data took  14.41ms
+[2020.07.16-03.08.15:400][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.07.16-03.09.14:234][864]LogEditorTransaction: Undo Move Node
+[2020.07.16-03.09.14:889][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.16-03.09.26:203][ 57]LogEditorTransaction: Undo Move Node
+[2020.07.16-03.09.26:802][ 57]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.07.16-03.09.40:577][297]BlueprintLog: New page: Compile ABP_Baller
+[2020.07.16-03.09.41:156][297]LogUObjectHash: Compacting FUObjectHashTables data took  20.36ms
+[2020.07.16-03.12.04:032][773]BlueprintLog: New page: Compile ABP_Baller
+[2020.07.16-03.12.04:698][773]LogUObjectHash: Compacting FUObjectHashTables data took  17.71ms
+[2020.07.16-03.12.08:874][826]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-03.12.09:068][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-03.12.09:068][826]PIE: New page: PIE session: Tester (Jul 15, 2020, 7:12:09 PM)
+[2020.07.16-03.12.09:069][826]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-03.12.09:083][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012942s)
+[2020.07.16-03.12.09:087][826]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-03.12.09:088][826]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268F355DE00), frame # 74826
+[2020.07.16-03.12.09:088][826]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026908245300), frame # 74826
+[2020.07.16-03.12.09:089][826]LogPlayLevel: PIE: World Init took: (0.006414s)
+[2020.07.16-03.12.09:090][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.020005s)
+[2020.07.16-03.12.09:395][826]LogUObjectHash: Compacting FUObjectHashTables data took  18.91ms
+[2020.07.16-03.12.09:399][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-03.12.09:400][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-03.12.09:400][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-03.12.09:402][826]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-03.12.09:402][826]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-03.12.09:440][826]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-03.12.09:440][826]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-03.12.10:141][826]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-03.12.10:142][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-03.12.10:142][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-03.12.10:142][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-03.12.10:143][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-03.12.10:155][826]LogInit: FAudioDevice initialized.
+[2020.07.16-03.12.10:185][826]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-03.12.10:188][826]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-23.12.10
+[2020.07.16-03.12.10:188][826]LogWorld: Bringing up level for play took: 0.001476
+[2020.07.16-03.12.10:189][826]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.07.16-03.12.10:195][826]PIE: Server logged in
+[2020.07.16-03.12.10:198][826]PIE: Play in editor total start time 1.147 seconds.
+[2020.07.16-03.12.48:721][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.12.48:721][415]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-03.12.48:722][415]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-03.12.48:723][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.12.48:835][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-03.12.48:854][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.12.49:205][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.12.49:206][415]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026908245300), frame # 75415
+[2020.07.16-03.12.49:206][415]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268F355DE00), frame # 75415
+[2020.07.16-03.12.49:222][415]LogUObjectHash: Compacting FUObjectHashTables data took  14.37ms
+[2020.07.16-03.12.49:369][416]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.07.16-03.13.47:660][591]Candidate modules for hot reload:
+[2020.07.16-03.13.47:660][591]  PAINT
+[2020.07.16-03.13.47:661][591]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2674 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.16-03.13.47:677][591]Warning: Starting HotReload took  0.1s.
+[2020.07.16-03.15.12:438][598]CompilerResultsLog: New page: Compilation - Jul 15, 2020, 7:15:12 PM
+[2020.07.16-03.15.12:440][598]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.16-03.15.12:440][598]CompilerResultsLog: Building PAINTEditor...
+[2020.07.16-03.15.12:440][598]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.16-03.15.12:441][598]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.16-03.15.12:441][598]CompilerResultsLog:   [1/4] Baller.cpp
+[2020.07.16-03.15.12:441][598]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(39): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.16-03.15.12:441][598]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(80): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.16-03.15.12:441][598]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.16-03.15.12:442][598]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.16-03.15.12:442][598]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2674.lib
+[2020.07.16-03.15.12:442][598]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2674.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2674.exp
+[2020.07.16-03.15.12:443][598]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2674.dll
+[2020.07.16-03.15.12:443][598]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2674.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2674.suppressed.exp
+[2020.07.16-03.15.12:443][598]CompilerResultsLog:   [4/4] PAINTEditor.target
+[2020.07.16-03.15.12:443][598]CompilerResultsLog: Total time in Parallel executor: 67.42 seconds
+[2020.07.16-03.15.12:443][598]CompilerResultsLog: Total execution time: 80.97 seconds
+[2020.07.16-03.15.12:443][598]LogMainFrame: MainFrame: Module compiling took 84.862 seconds
+[2020.07.16-03.15.12:815][598]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0018 seconds. Added 2 classes and 2 folders.
+[2020.07.16-03.15.12:836][598]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.07.16-03.15.13:739][598]LogContentBrowser: Native class hierarchy populated in 0.0338 seconds. Added 3430 classes and 825 folders.
+[2020.07.16-03.15.13:740][598]Display: HotReload took 86.2s.
+[2020.07.16-03.15.17:760][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.16-03.15.18:271][633]LogUObjectHash: Compacting FUObjectHashTables data took  24.44ms
+[2020.07.16-03.15.18:458][633]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterDA85A9084DA80D8EDD00909579FE4297.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.16-03.15.18:655][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.16-03.15.18:806][633]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataFB19A12E43B9B5236556959037E84507.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.16-03.15.18:871][633]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.16-03.15.18:871][633]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.16-03.15.18:871][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.16-03.15.20:119][651]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.16-03.15.20:325][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.16-03.15.20:325][651]PIE: New page: PIE session: Tester (Jul 15, 2020, 7:15:20 PM)
+[2020.07.16-03.15.20:326][651]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.16-03.15.20:337][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011203s)
+[2020.07.16-03.15.20:342][651]LogAIModule: Creating AISystem for world Tester
+[2020.07.16-03.15.20:342][651]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000268F81BD400), frame # 76651
+[2020.07.16-03.15.20:343][651]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026909043100), frame # 76651
+[2020.07.16-03.15.20:343][651]LogPlayLevel: PIE: World Init took: (0.006048s)
+[2020.07.16-03.15.20:344][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.017792s)
+[2020.07.16-03.15.20:700][651]LogUObjectHash: Compacting FUObjectHashTables data took  17.91ms
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.16-03.15.20:702][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.16-03.15.20:703][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.16-03.15.20:703][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.16-03.15.20:704][651]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.16-03.15.20:704][651]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.16-03.15.20:727][651]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.16-03.15.20:727][651]LogAudioMixer: Display: 1: FrontRight
+[2020.07.16-03.15.21:581][651]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.16-03.15.21:582][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.16-03.15.21:582][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.16-03.15.21:582][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.16-03.15.21:583][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.16-03.15.21:585][651]LogInit: FAudioDevice initialized.
+[2020.07.16-03.15.21:626][651]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.16-03.15.21:628][651]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.15-23.15.21
+[2020.07.16-03.15.21:629][651]LogWorld: Bringing up level for play took: 0.001498
+[2020.07.16-03.15.21:629][651]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2020.07.16-03.15.21:636][651]PIE: Server logged in
+[2020.07.16-03.15.21:639][651]PIE: Play in editor total start time 1.347 seconds.
+[2020.07.16-03.15.38:858][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.15.38:858][901]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Tester
+[2020.07.16-03.15.38:859][901]LogWorld: UWorld::CleanupWorld for Tester, bSessionEnded=true, bCleanupResources=true
+[2020.07.16-03.15.38:860][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.15.38:982][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.16-03.15.38:999][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.16-03.15.39:300][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.16-03.15.39:302][901]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026909043100), frame # 76901
+[2020.07.16-03.15.39:302][901]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000268F81BD400), frame # 76901
+[2020.07.16-03.15.39:318][901]LogUObjectHash: Compacting FUObjectHashTables data took  14.51ms
+[2020.07.16-03.15.39:528][902]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.07.16-03.15.41:838][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Baller" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Animation/ABP_Baller.uasset" SILENT=true
+[2020.07.16-03.15.42:573][929]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/ABP_BallerE4695723409F8A531361738F8C637D36.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Animation/ABP_Baller.uasset'
+[2020.07.16-03.15.42:615][929]AssetCheck: New page: Asset Save: ABP_Baller
+[2020.07.16-03.15.42:616][929]LogContentValidation: Display: Validating AnimBlueprint /Game/Animation/ABP_Baller.ABP_Baller
+[2020.07.16-03.15.47:259][988]LogUObjectHash: Compacting FUObjectHashTables data took  17.66ms

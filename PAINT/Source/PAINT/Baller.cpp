@@ -15,6 +15,8 @@ ABaller::ABaller()
 	PrimaryActorTick.bCanEverTick = true;
 
 	SpringArm = CreateDefaultSubobject<USpringArmComponent>(TEXT("Spring Arm"));
+	SpringArm->SetRelativeRotation(FRotator(0.f, 10.f, 0.f));
+	SpringArm->TargetArmLength = 250.f;
     SpringArm->SetupAttachment(RootComponent);
 
     Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Camera"));
@@ -108,37 +110,47 @@ void ABaller::Jump()
 {
 	if(!bProne){
 		ACharacter::Jump();
-		bCrouched = false;
+		SpringArm->TargetArmLength = 250.f;
+		SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
+		if(bCrouched){
+			Crouch();
+		}
+	} else{
+		bProne = false;
+		SpringArm->TargetArmLength = 250.f;
+		SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
 	}
-	
-	bProne = false;
 }
 
 
 void ABaller::Crouch() 
 {
-	// Using ACharacter::Crouch & UnCrouch to lower camera
-
-	if(bCrouched){
-		bCrouched = false;
-		// ACharacter::UnCrouch(true);
-	} else{
-		bCrouched = true;	
-		// ACharacter::Crouch(true);
+	if(bEquiped){
+		if(bCrouched){
+			bCrouched = false;
+			SpringArm->TargetArmLength = 250.f;
+			SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
+		} else{
+			bCrouched = true;	
+			SpringArm->TargetArmLength = 200.f;
+			SpringArm->SocketOffset = FVector(0.f, 0.f, -35.f);
+		}
 	}
 }
 
 
 void ABaller::Prone() 
 {
-	// Using ACharacter::Crouch & UnCrouch to lower camera
-	
-	if(bProne){
-		bProne = false;
-		// ACharacter::UnCrouch(true);
-	} else{
-		bProne = true;	
-		// ACharacter::Crouch(true);
+	if(bEquiped){
+		if(bProne){
+			bProne = false;
+			SpringArm->TargetArmLength = 250.f;
+			SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
+		} else{
+			bProne = true;
+			SpringArm->TargetArmLength = 75.f;
+			SpringArm->SocketOffset = FVector(0.f, 0.f, -75.f);
+		}
 	}
 }
 
