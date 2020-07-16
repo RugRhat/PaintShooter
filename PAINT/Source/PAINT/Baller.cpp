@@ -107,8 +107,8 @@ void ABaller::Equip()
 void ABaller::Jump() 
 {
 	if(!bProne){
-		bCrouched = false;
 		ACharacter::Jump();
+		bCrouched = false;
 	}
 	
 	bProne = false;
@@ -121,10 +121,10 @@ void ABaller::Crouch()
 
 	if(bCrouched){
 		bCrouched = false;
-		ACharacter::UnCrouch(true);
+		// ACharacter::UnCrouch(true);
 	} else{
 		bCrouched = true;	
-		ACharacter::Crouch(true);
+		// ACharacter::Crouch(true);
 	}
 }
 
@@ -135,10 +135,10 @@ void ABaller::Prone()
 	
 	if(bProne){
 		bProne = false;
-		ACharacter::UnCrouch(true);
+		// ACharacter::UnCrouch(true);
 	} else{
 		bProne = true;	
-		ACharacter::Crouch(true);
+		// ACharacter::Crouch(true);
 	}
 }
 
