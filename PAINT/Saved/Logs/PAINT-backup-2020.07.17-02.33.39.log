@@ -1,0 +1,1129 @@
+﻿Log file open, 07/16/20 21:22:38
+LogInit: Display: Running engine for game: PAINT
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.522691
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13594126
+LogInit: Engine Version: 4.25.1-13594126+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jun  2 2020 02:10:36
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:796][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.17-01.22.38:796][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.17-01.22.38:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:797][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:802][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.17-01.22.38:802][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.17-01.22.38:803][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.17-01.22.38:804][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.17-01.22.38:805][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.17-01.22.38:806][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.17-01.22.38:807][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.17-01.22.38:807][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.17-01.22.38:807][  0]LogHAL: Display: Platform has ~ 16 GB [17052516352 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.17-01.22.38:807][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.17-01.22.38:807][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2020.07.17-01.22.38:807][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2020.07.17-01.22.38:808][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.17-01.22.38:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Scalability.ini]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.17-01.22.38:810][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.17-01.22.38:811][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.07.17-01.22.38:811][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Config/Windows/Engine.ini]
+[2020.07.17-01.22.38:811][  0]LogInit: Computer: SKETCH-PC
+[2020.07.17-01.22.38:811][  0]LogInit: User: Angelica
+[2020.07.17-01.22.38:811][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.07.17-01.22.38:811][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.17-01.22.38:811][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.17-01.22.38:811][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.17-01.22.38:811][  0]LogMemory: Process Physical Memory: 114.33 MB used, 114.34 MB peak
+[2020.07.17-01.22.38:811][  0]LogMemory: Process Virtual Memory: 103.62 MB used, 103.62 MB peak
+[2020.07.17-01.22.38:811][  0]LogMemory: Physical Memory: 6570.32 MB used,  9692.22 MB free, 16262.55 MB total
+[2020.07.17-01.22.38:811][  0]LogMemory: Virtual Memory: 5132.01 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.07.17-01.22.38:824][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.17-01.22.38:900][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.07.17-01.22.38:902][  0]LogInit: Using OS detected language (en-US).
+[2020.07.17-01.22.38:902][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.17-01.22.38:916][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.17-01.22.39:318][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.17-01.22.39:411][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.17-01.22.39:411][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.17-01.22.39:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.17-01.22.39:730][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.17-01.22.39:730][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.17-01.22.39:730][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.17-01.22.39:918][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.07.17-01.22.39:918][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.07.17-01.22.39:923][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.17-01.22.39:924][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.17-01.22.39:928][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.17-01.22.39:928][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.17-01.22.39:931][  0]LogD3D11RHI:    3. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.17-01.22.39:932][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.17-01.22.39:935][  0]LogD3D11RHI:    4. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.17-01.22.39:935][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.17-01.22.39:935][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.17-01.22.39:946][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.17-01.22.39:946][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.17-01.22.39:946][  0]LogWindows: EnumDisplayDevices:
+[2020.07.17-01.22.39:947][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.07.17-01.22.39:947][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.07.17-01.22.39:948][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.07.17-01.22.39:948][  0]LogWindows:    3. 'MS Idd Device' (P:0 D:0)
+[2020.07.17-01.22.39:948][  0]LogWindows:    4. 'MS Idd Device' (P:0 D:0)
+[2020.07.17-01.22.39:949][  0]LogWindows:    5. 'MS Idd Device' (P:0 D:0)
+[2020.07.17-01.22.39:949][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2020.07.17-01.22.39:949][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.07.17-01.22.39:949][  0]LogD3D11RHI:   Driver Version: 24.20.100.6344 (internal:24.20.100.6344, unified:24.20.100.6344)
+[2020.07.17-01.22.39:949][  0]LogD3D11RHI:      Driver Date: 11-10-2018
+[2020.07.17-01.22.39:949][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.07.17-01.22.39:955][  0]LogD3D11RHI: [IntelMetricsDiscovery] Failed to initialize context. Result=00000002
+[2020.07.17-01.22.40:135][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.07.17-01.22.40:135][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.17-01.22.40:135][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.07.17-01.22.40:147][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.07.17-01.22.40:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.17-01.22.40:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.17-01.22.40:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.17-01.22.40:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.17-01.22.40:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.07.17-01.22.40:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.17-01.22.40:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.17-01.22.40:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.17-01.22.40:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.17-01.22.40:816][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.17-01.22.40:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.17-01.22.40:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.17-01.22.40:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.17-01.22.40:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.17-01.22.40:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.17-01.22.40:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.17-01.22.40:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.17-01.22.40:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.17-01.22.40:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.17-01.22.40:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.17-01.22.40:971][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.17-01.22.41:065][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Intermediate/Shaders/WorkingDirectory/16924/).
+[2020.07.17-01.22.41:066][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Angelica .DESKTOP-RM5JOAJ/AppData/Local/Temp/UnrealShaderWorkingDir/514BAD834C7DC4097AB676AA6E0C0A6C/'.
+[2020.07.17-01.22.41:066][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.17-01.22.41:067][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.17-01.22.41:067][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.17-01.22.42:163][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: Loaded boot cache 0.07s 75MB C:/Users/Angelica .DESKTOP-RM5JOAJ/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Angelica .DESKTOP-RM5JOAJ/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.17-01.22.42:231][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.17-01.22.42:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.17-01.22.42:246][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.17-01.22.42:246][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.17-01.22.42:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Angelica .DESKTOP-RM5JOAJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.17-01.22.42:248][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.17-01.22.42:248][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.17-01.22.42:321][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.17-01.22.42:322][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.17-01.22.42:367][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.07.17-01.22.42:773][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.17-01.22.42:941][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.17-01.22.42:941][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.17-01.22.42:941][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.17-01.22.42:941][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.17-01.22.42:941][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.17-01.22.42:963][  0]LogNetVersion: PAINT 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2108548325)
+[2020.07.17-01.22.43:906][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002D3E25B8380), frame # 0
+[2020.07.17-01.22.43:906][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D3E24ED1C0), frame # 0
+[2020.07.17-01.22.43:909][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3E2545E00), frame # 0
+[2020.07.17-01.22.44:078][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.154975 seconds
+[2020.07.17-01.22.44:092][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.07.17-01.22.44:092][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.07.17-01.22.44:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.17-01.22.44:800][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.17-01.22.44:808][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.17-01.22.45:043][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.45:043][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.45:051][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.45:058][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.45:073][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.45:661][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.17-01.22.45:710][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.17-01.22.45:710][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.17-01.22.45:839][  0]LogOcInput: OculusInput pre-init called
+[2020.07.17-01.22.45:868][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.17-01.22.45:868][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.17-01.22.46:030][  0]LogEngine: Initializing Engine...
+[2020.07.17-01.22.46:033][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.07.17-01.22.46:033][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.07.17-01.22.46:035][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.17-01.22.46:325][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.17-01.22.46:343][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.17-01.22.46:343][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3E5AEFC00), frame # 0
+[2020.07.17-01.22.46:343][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D3E5B59440), frame # 0
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-01.22.46:353][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-01.22.46:353][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-01.22.46:354][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-01.22.46:354][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-01.22.46:425][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-01.22.46:425][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-01.22.47:426][  0]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.17-01.22.47:429][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.17-01.22.47:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.17-01.22.47:435][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.17-01.22.47:437][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.17-01.22.47:438][  0]LogInit: FAudioDevice initialized.
+[2020.07.17-01.22.47:439][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.17-01.22.47:516][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/Angelica .DESKTOP-RM5JOAJ/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.07.17-01.22.47:527][  0]LogInit: Texture streaming: Enabled
+[2020.07.17-01.22.47:568][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.17-01.22.47:568][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.17-01.22.47:585][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.17-01.22.47:759][  0]LogInit: Transaction tracking system initialized
+[2020.07.17-01.22.47:819][  0]BlueprintLog: New page: Editor Load
+[2020.07.17-01.22.47:985][  0]LocalizationService: Localization service is disabled
+[2020.07.17-01.22.48:820][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.17-01.22.48:820][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.17-01.22.49:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/' took 0.02s
+[2020.07.17-01.22.49:730][  0]SourceControl: Source control is disabled
+[2020.07.17-01.22.49:730][  0]LogUnrealEdMisc: Loading editor; pre map load, took 17.108
+[2020.07.17-01.22.49:730][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.17-01.22.49:731][  0]LightingResults: New page: Lighting Build
+[2020.07.17-01.22.49:733][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-01.22.49:733][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-01.22.49:734][  0]MapCheck: New page: Map Check
+[2020.07.17-01.22.49:734][  0]LightingResults: New page: Lighting Build
+[2020.07.17-01.22.49:744][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D3E5AEFC00), frame # 0
+[2020.07.17-01.22.49:744][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D3E5B59440), frame # 0
+[2020.07.17-01.22.49:746][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.07.17-01.22.49:901][  0]LogAIModule: Creating AISystem for world Tester
+[2020.07.17-01.22.49:901][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D3D7901400), frame # 0
+[2020.07.17-01.22.49:902][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D3D7981BC0), frame # 0
+[2020.07.17-01.22.49:908][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.17-01.22.49:956][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.07.17-01.22.49:956][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.17-01.22.49:957][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.5ms to complete.
+[2020.07.17-01.22.49:957][  0]LogFileHelpers: Loading map 'Tester' took 0.226
+[2020.07.17-01.22.49:965][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.343
+[2020.07.17-01.22.51:315][  0]LogCollectionManager: Loaded 0 collections in 0.004041 seconds
+[2020.07.17-01.22.51:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Collections/' took 0.00s
+[2020.07.17-01.22.51:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Developers/Angelica/Collections/' took 0.00s
+[2020.07.17-01.22.51:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Collections/' took 0.00s
+[2020.07.17-01.22.51:364][  0]LogContentBrowser: Native class hierarchy populated in 0.0262 seconds. Added 3431 classes and 823 folders.
+[2020.07.17-01.22.51:376][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.07.17-01.22.52:195][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.07.17-01.22.52:237][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 0 folders.
+[2020.07.17-01.22.52:312][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-01.22.52:332][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-01.22.52:348][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-01.22.52:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.17-01.22.52:418][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.17-01.22.52:452][  0]LogSlate: Took 0.029814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.17-01.22.52:455][  0]LogSlate: Took 0.000999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.17-01.22.52:510][  0]LogSlate: Took 0.030256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.07.17-01.22.53:063][  0]LogRenderer: Reallocating scene render targets to support 1128x544 Format 9 NumSamples 1 (Frame:1).
+[2020.07.17-01.22.53:346][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0020 seconds. Added 0 classes and 0 folders.
+[2020.07.17-01.22.53:348][  0]LogLoad: (Engine Initialization) Total time: 20.72 seconds
+[2020.07.17-01.22.53:348][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.17-01.22.53:771][  0]LogContentStreaming: Texture pool size now 800 MB
+[2020.07.17-01.22.54:456][  5]LogAssetRegistry: Asset discovery search completed in 12.0908 seconds
+[2020.07.17-01.22.54:476][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000014 seconds (updated 0 objects)
+[2020.07.17-01.23.58:933][729]LogSlate: Took 0.040806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.17-01.23.58:975][729]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AimUI.WBP_AimUI
+[2020.07.17-01.24.00:435][729]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 125 classes and 0 folders.
+[2020.07.17-01.24.02:846][729]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.07.17-01.25.13:639][990]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.17-01.25.37:822][ 52]LogTemp: Resetting audio stream to device id 
+[2020.07.17-01.25.37:870][ 52]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-01.25.37:870][ 52]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-01.27.48:375][164]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.07.17-01.27.48:539][164]LogTemp: Resetting audio stream to device id 
+[2020.07.17-01.27.48:630][164]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-01.27.48:630][164]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-01.40.00:469][381]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.07.17-01.40.00:470][381]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.07.17-01.40.07:770][444]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.17-01.40.22:204][600]Candidate modules for hot reload:
+[2020.07.17-01.40.22:204][600]  PAINT
+[2020.07.17-01.40.22:205][600]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,490 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-01.41.25:252][600]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 5:41:25 PM
+[2020.07.17-01.41.25:252][600]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Invalidating makefile for PAINTEditor (source file added)
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Reflection code generated for PAINTEditor in 47.0123604 seconds
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [1/6] BallerController.cpp
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [2/6] PAINT.init.gen.cpp
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [3/6] BallerController.gen.cpp
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [4/6] UE4Editor-PAINT-0490.lib
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0490.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0490.exp
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [5/6] UE4Editor-PAINT-0490.dll
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0490.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-0490.suppressed.exp
+[2020.07.17-01.41.25:253][600]CompilerResultsLog:   [6/6] PAINTEditor.target
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Total time in Parallel executor: 9.08 seconds
+[2020.07.17-01.41.25:253][600]CompilerResultsLog: Total execution time: 62.71 seconds
+[2020.07.17-01.41.25:254][600]LogMainFrame: MainFrame: Module compiling took 63.061 seconds
+[2020.07.17-01.41.25:300][600]LogContentBrowser: Native class hierarchy populated in 0.0251 seconds. Added 3431 classes and 823 folders.
+[2020.07.17-01.41.25:301][600]Display: HotReload took 63.1s.
+[2020.07.17-01.41.25:301][600]Warning: HotReload operation took 63.1s.
+[2020.07.17-01.41.25:370][600]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.07.17-01.41.27:369][602]LogHotReload: New module detected: UE4Editor-PAINT-0490.dll
+[2020.07.17-01.41.27:670][603]LogHotReload: Starting Hot-Reload from IDE
+[2020.07.17-01.41.27:832][603]LogClass: Could not find existing class BallerController in package /Script/PAINT for HotReload, assuming new class
+[2020.07.17-01.41.27:897][603]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0040 seconds. Added 5 classes and 2 folders.
+[2020.07.17-01.41.27:913][603]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2020.07.17-01.41.28:378][603]LogContentBrowser: Native class hierarchy populated in 0.0358 seconds. Added 3432 classes and 823 folders.
+[2020.07.17-01.41.28:389][603]Display: HotReload took  0.7s.
+[2020.07.17-01.50.45:594][228]Candidate modules for hot reload:
+[2020.07.17-01.50.45:594][228]  PAINT
+[2020.07.17-01.50.45:598][228]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,7489 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-01.50.45:611][228]Warning: Starting HotReload took  0.1s.
+[2020.07.17-01.51.32:159][495]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.17-01.51.35:928][505]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-01.51.35:929][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-01.51.37:386][505]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Baller.BP_Baller
+[2020.07.17-01.51.39:165][515]LogSlate: Took 0.032023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.17-01.52.04:380][702]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 5:52:04 PM
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-01.52.04:381][702]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Reflection code generated for PAINTEditor in 44.1678187 seconds
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-01.52.04:381][702]CompilerResultsLog: Building 8 actions with 4 processes...
+[2020.07.17-01.52.04:381][702]CompilerResultsLog:   [1/8] PAINT.init.gen.cpp
+[2020.07.17-01.52.04:381][702]CompilerResultsLog:   [2/8] Baller.gen.cpp
+[2020.07.17-01.52.04:381][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT/Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT/Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   [3/8] BallerController.gen.cpp
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   [4/8] Baller.cpp
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-01.52.04:382][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.cpp(105) : error C2027: use of undefined type 'ABallerController'
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(10): note: see declaration of 'ABallerController'
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.cpp(113) : error C2027: use of undefined type 'ABallerController'
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(10): note: see declaration of 'ABallerController'
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:   [5/8] BallerController.cpp
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(11) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(12) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(13) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.52.04:383][702]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(16) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.52.04:383][702]LogMainFrame: MainFrame: Module compiling took 78.912 seconds
+[2020.07.17-01.52.04:384][702]Warning: HotReload failed, recompile failed
+[2020.07.17-01.52.12:533][742]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PAINTGameModeBase.BP_PAINTGameModeBase
+[2020.07.17-01.52.18:352][825]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.17-01.53.01:374][136]Candidate modules for hot reload:
+[2020.07.17-01.53.01:374][136]  PAINT
+[2020.07.17-01.53.01:379][136]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,4320 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-01.53.01:395][136]Warning: Starting HotReload took  0.1s.
+[2020.07.17-01.53.08:057][262]BlueprintLog: New page: Compile BP_PAINTGameModeBase
+[2020.07.17-01.53.08:962][262]LogUObjectHash: Compacting FUObjectHashTables data took  20.32ms
+[2020.07.17-01.53.09:800][273]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_PAINTGameModeBase091203D34D70304A4C7F709760E7D3A9.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_PAINTGameModeBase.uasset'
+[2020.07.17-01.53.09:870][273]AssetCheck: New page: Asset Save: BP_PAINTGameModeBase
+[2020.07.17-01.53.09:870][273]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PAINTGameModeBase.BP_PAINTGameModeBase
+[2020.07.17-01.53.25:090][561]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.17-01.53.57:413][997]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 5:53:57 PM
+[2020.07.17-01.53.57:414][997]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-01.53.57:414][997]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-01.53.57:414][997]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-01.53.57:414][997]CompilerResultsLog: Building 5 actions with 4 processes...
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   [1/5] Baller.cpp
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:   [2/5] BallerController.cpp
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(11) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(12) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.53.57:414][997]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(13) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.53.57:415][997]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(16) : error C2065: 'HUD': undeclared identifier
+[2020.07.17-01.53.57:415][997]LogMainFrame: MainFrame: Module compiling took 56.141 seconds
+[2020.07.17-01.53.57:415][997]Warning: HotReload failed, recompile failed
+[2020.07.17-01.54.08:797][ 63]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.17-01.54.08:797][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.17-01.54.59:820][257]Candidate modules for hot reload:
+[2020.07.17-01.54.59:820][257]  PAINT
+[2020.07.17-01.54.59:823][257]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2947 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-01.54.59:841][257]Warning: Starting HotReload took  0.1s.
+[2020.07.17-01.56.24:006][121]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 5:56:24 PM
+[2020.07.17-01.56.24:008][121]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-01.56.24:008][121]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-01.56.24:008][121]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-01.56.24:008][121]CompilerResultsLog: Building 4 actions with 4 processes...
+[2020.07.17-01.56.24:008][121]CompilerResultsLog:   [1/4] BallerController.cpp
+[2020.07.17-01.56.24:008][121]CompilerResultsLog:   [2/4] UE4Editor-PAINT-2947.lib
+[2020.07.17-01.56.24:009][121]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2947.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2947.exp
+[2020.07.17-01.56.24:009][121]CompilerResultsLog:   [3/4] UE4Editor-PAINT-2947.dll
+[2020.07.17-01.56.24:009][121]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2947.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2947.suppressed.exp
+[2020.07.17-01.56.24:009][121]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-01.56.24:009][121]CompilerResultsLog:     Hint on symbols that are defined and could potentially match:
+[2020.07.17-01.56.24:010][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UCameraComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UCameraComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:010][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UObject::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UObject@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:010][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UProjectileMovementComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UProjectileMovementComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:010][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USceneComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USceneComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:010][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USkeletalMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USkeletalMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:011][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USpringArmComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USpringArmComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:011][121]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UStaticMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UStaticMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-01.56.24:011][121]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-01.56.24:011][121]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::RemoveFromViewport(void)" (__imp_?RemoveFromViewport@UUserWidget@@QEAAXXZ) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-01.56.24:011][121]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-01.56.24:012][121]CompilerResultsLog: Error:   BallerController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_ABallerController_Statics::NewProp_HUDClass''(void)" (??__E?NewProp_HUDClass@Z_Construct_UClass_ABallerController_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.07.17-01.56.24:012][121]CompilerResultsLog: Error:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Binaries\Win64\UE4Editor-PAINT-2947.dll : fatal error LNK1120: 5 unresolved externals
+[2020.07.17-01.56.24:012][121]LogMainFrame: MainFrame: Module compiling took 84.267 seconds
+[2020.07.17-01.56.24:012][121]Warning: HotReload failed, recompile failed
+[2020.07.17-01.57.07:621][503]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-01.57.07:773][503]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-01.59.14:207][246]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.07.17-01.59.14:207][246]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.07.17-01.59.22:159][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_BallerController.BP_BallerController
+[2020.07.17-01.59.23:884][316]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.07.17-01.59.24:111][317]LogRenderer: Reallocating scene render targets to support 1128x572 Format 9 NumSamples 1 (Frame:1).
+[2020.07.17-01.59.43:997][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_BallerController" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/BP_BallerController.uasset" SILENT=true
+[2020.07.17-01.59.44:112][574]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_BallerController8037949E47861D7EF19D7B81391B6642.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/BP_BallerController.uasset'
+[2020.07.17-01.59.44:253][574]AssetCheck: New page: Asset Save: BP_BallerController
+[2020.07.17-01.59.44:253][574]LogContentValidation: Display: Validating Blueprint /Game/BP_BallerController.BP_BallerController
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.BP_BallerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.SKEL_BP_BallerController_C:UserConstructionScript' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.SKEL_BP_BallerController_C' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.BP_BallerController_C' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.BP_BallerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:658][625]LogMetaData: Removing '/Game/Blueprints/BP_BallerController.BP_BallerController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_BallerController.PackageMetaData'
+[2020.07.17-01.59.50:892][625]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_BallerController59C1F5DA4CF31679E804468011504315.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_BallerController.uasset'
+[2020.07.17-01.59.51:547][625]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2020.07.17-01.59.51:628][625]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.07.17-01.59.51:684][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.07.17-01.59.51:743][625]AssetCheck: New page: Asset Save: BP_BallerController
+[2020.07.17-01.59.51:743][625]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BallerController.BP_BallerController
+[2020.07.17-01.59.56:064][671]LogUObjectHash: Compacting FUObjectHashTables data took  17.97ms
+[2020.07.17-02.00.04:253][756]Candidate modules for hot reload:
+[2020.07.17-02.00.04:253][756]  PAINT
+[2020.07.17-02.00.04:259][756]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,4531 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-02.00.04:274][756]Warning: Starting HotReload took  0.1s.
+[2020.07.17-02.00.30:218][ 34]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 6:00:30 PM
+[2020.07.17-02.00.30:219][ 34]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-02.00.30:219][ 34]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-02.00.30:219][ 34]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-02.00.30:219][ 34]CompilerResultsLog: Building 3 actions with 4 processes...
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog:   [1/3] UE4Editor-PAINT-4531.lib
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-4531.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-4531.exp
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog:   [2/3] UE4Editor-PAINT-4531.dll
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-4531.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-4531.suppressed.exp
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.00.30:220][ 34]CompilerResultsLog:     Hint on symbols that are defined and could potentially match:
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UCameraComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UCameraComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UObject::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UObject@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UProjectileMovementComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UProjectileMovementComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USceneComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USceneComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USkeletalMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USkeletalMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USpringArmComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USpringArmComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:221][ 34]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UStaticMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UStaticMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.00.30:222][ 34]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.00.30:222][ 34]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::RemoveFromViewport(void)" (__imp_?RemoveFromViewport@UUserWidget@@QEAAXXZ) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.00.30:222][ 34]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.00.30:222][ 34]CompilerResultsLog: Error:   BallerController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_ABallerController_Statics::NewProp_HUDClass''(void)" (??__E?NewProp_HUDClass@Z_Construct_UClass_ABallerController_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.07.17-02.00.30:222][ 34]CompilerResultsLog: Error:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Binaries\Win64\UE4Editor-PAINT-4531.dll : fatal error LNK1120: 5 unresolved externals
+[2020.07.17-02.00.30:222][ 34]LogMainFrame: MainFrame: Module compiling took 26.092 seconds
+[2020.07.17-02.00.30:222][ 34]Warning: HotReload failed, recompile failed
+[2020.07.17-02.06.29:009][419]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-02.06.29:169][419]LogSlate: Window 'Message Log' being destroyed
+[2020.07.17-02.06.30:556][431]Candidate modules for hot reload:
+[2020.07.17-02.06.30:556][431]  PAINT
+[2020.07.17-02.06.30:559][431]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,2598 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-02.06.30:576][431]Warning: Starting HotReload took  0.1s.
+[2020.07.17-02.14.34:785][353]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 6:14:34 PM
+[2020.07.17-02.14.34:787][353]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-02.14.34:787][353]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-02.14.34:788][353]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-02.14.34:789][353]CompilerResultsLog: Reflection code generated for PAINTEditor in 247.1581109 seconds
+[2020.07.17-02.14.34:789][353]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-02.14.34:789][353]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-02.14.34:789][353]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.07.17-02.14.34:789][353]CompilerResultsLog:   [1/6] BallerController.gen.cpp
+[2020.07.17-02.14.34:789][353]CompilerResultsLog:   [2/6] Baller.cpp
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   [3/6] BallerController.cpp
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   [4/6] UE4Editor-PAINT-2598.lib
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2598.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2598.exp
+[2020.07.17-02.14.34:790][353]CompilerResultsLog:   [5/6] UE4Editor-PAINT-2598.dll
+[2020.07.17-02.14.34:791][353]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2598.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-2598.suppressed.exp
+[2020.07.17-02.14.34:791][353]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.14.34:791][353]CompilerResultsLog:     Hint on symbols that are defined and could potentially match:
+[2020.07.17-02.14.34:791][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UCameraComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UCameraComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:792][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UObject::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UObject@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:792][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UProjectileMovementComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UProjectileMovementComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:792][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USceneComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USceneComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:792][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USkeletalMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USkeletalMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:793][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USpringArmComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USpringArmComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:793][353]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UStaticMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UStaticMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.14.34:793][353]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.14.34:794][353]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::RemoveFromViewport(void)" (__imp_?RemoveFromViewport@UUserWidget@@QEAAXXZ) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.14.34:794][353]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.14.34:795][353]CompilerResultsLog: Error:   BallerController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_ABallerController_Statics::NewProp_HUDClass''(void)" (??__E?NewProp_HUDClass@Z_Construct_UClass_ABallerController_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.07.17-02.14.34:796][353]CompilerResultsLog: Error:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Binaries\Win64\UE4Editor-PAINT-2598.dll : fatal error LNK1120: 5 unresolved externals
+[2020.07.17-02.14.34:797][353]LogMainFrame: MainFrame: Module compiling took 484.341 seconds
+[2020.07.17-02.14.34:798][353]Warning: HotReload failed, recompile failed
+[2020.07.17-02.15.45:615][887]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.07.17-02.16.43:557][ 90]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.07.17-02.16.43:557][ 90]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.07.17-02.16.46:194][107]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.07.17-02.17.05:033][268]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.07.17-02.24.44:601][228]Candidate modules for hot reload:
+[2020.07.17-02.24.44:601][228]  PAINT
+[2020.07.17-02.24.44:603][228]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,1628 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-02.24.44:617][228]Warning: Starting HotReload took  0.1s.
+[2020.07.17-02.25.43:492][580]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 6:25:43 PM
+[2020.07.17-02.25.43:492][580]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-02.25.43:492][580]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Reflection code generated for PAINTEditor in 27.1265631 seconds
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   [1/6] BallerController.gen.cpp
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   [2/6] Baller.cpp
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   [3/6] BallerController.cpp
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   [4/6] UE4Editor-PAINT-1628.lib
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1628.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1628.exp
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:   [5/6] UE4Editor-PAINT-1628.dll
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1628.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-1628.suppressed.exp
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) private: static class UClass * __cdecl UUserWidget::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UUserWidget@@CAPEAVUClass@@XZ) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:     Hint on symbols that are defined and could potentially match:
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UCameraComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UCameraComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UObject::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UObject@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UProjectileMovementComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UProjectileMovementComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USceneComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USceneComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USkeletalMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USkeletalMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl USpringArmComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@USpringArmComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog:       "__declspec(dllimport) private: static class UClass * __cdecl UStaticMeshComponent::GetPrivateStaticClass(void)" (__imp_?GetPrivateStaticClass@UStaticMeshComponent@@CAPEAVUClass@@XZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::AddToViewport(int)" (__imp_?AddToViewport@UUserWidget@@QEAAXH@Z) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl UUserWidget::RemoveFromViewport(void)" (__imp_?RemoveFromViewport@UUserWidget@@QEAAXXZ) referenced in function "public: void __cdecl ABallerController::Reticle(bool)" (?Reticle@ABallerController@@QEAAX_N@Z)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   BallerController.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class UUserWidget * __cdecl UUserWidget::CreateWidgetInstance(class APlayerController &,class TSubclassOf<class UUserWidget>,class FName)" (__imp_?CreateWidgetInstance@UUserWidget@@SAPEAV1@AEAVAPlayerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z) referenced in function "class UUserWidget * __cdecl CreateWidget<class UUserWidget,class ABallerController>(class ABallerController *,class TSubclassOf<class UUserWidget>,class FName)" (??$CreateWidget@VUUserWidget@@VABallerController@@@@YAPEAVUUserWidget@@PEAVABallerController@@V?$TSubclassOf@VUUserWidget@@@@VFName@@@Z)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   BallerController.gen.cpp.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class UClass * __cdecl Z_Construct_UClass_UUserWidget_NoRegister(void)" (__imp_?Z_Construct_UClass_UUserWidget_NoRegister@@YAPEAVUClass@@XZ) referenced in function "void __cdecl `dynamic initializer for 'public: static struct UE4CodeGen_Private::FClassPropertyParams const Z_Construct_UClass_ABallerController_Statics::NewProp_HUDClass''(void)" (??__E?NewProp_HUDClass@Z_Construct_UClass_ABallerController_Statics@@2UFClassPropertyParams@UE4CodeGen_Private@@B@@YAXXZ)
+[2020.07.17-02.25.43:493][580]CompilerResultsLog: Error:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Binaries\Win64\UE4Editor-PAINT-1628.dll : fatal error LNK1120: 5 unresolved externals
+[2020.07.17-02.25.43:493][580]LogMainFrame: MainFrame: Module compiling took 58.971 seconds
+[2020.07.17-02.25.43:493][580]Warning: HotReload failed, recompile failed
+[2020.07.17-02.26.33:236][751]Candidate modules for hot reload:
+[2020.07.17-02.26.33:237][751]  PAINT
+[2020.07.17-02.26.33:240][751]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,3963 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-02.26.33:254][751]Warning: Starting HotReload took  0.1s.
+[2020.07.17-02.27.45:017][496]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 6:27:45 PM
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-02.27.45:018][496]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Reflection code generated for PAINTEditor in 46.8161169 seconds
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-02.27.45:018][496]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   [1/6] BallerController.gen.cpp
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT/BallerController.h(26) : error C2079: 'ABallerController::CrossHair' uses undefined class 'UUserWidget'
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   [2/6] Baller.cpp
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.h(26) : error C2079: 'ABallerController::CrossHair' uses undefined class 'UUserWidget'
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:   [3/6] BallerController.cpp
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.h(26) : error C2079: 'ABallerController::CrossHair' uses undefined class 'UUserWidget'
+[2020.07.17-02.27.45:019][496]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(10) : error C2440: '=': cannot convert from 'WidgetT *' to 'int'
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:           with
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:           [
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:               WidgetT=UUserWidget
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:           ]
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(10): note: There is no context in which this conversion is possible
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:    C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(16) : error C2446: '!=': no conversion from 'nullptr' to 'int'
+[2020.07.17-02.27.45:020][496]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp(16): note: A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+[2020.07.17-02.27.45:020][496]LogMainFrame: MainFrame: Module compiling took 71.886 seconds
+[2020.07.17-02.27.45:020][496]Warning: HotReload failed, recompile failed
+[2020.07.17-02.29.17:879][867]Candidate modules for hot reload:
+[2020.07.17-02.29.17:880][867]  PAINT
+[2020.07.17-02.29.17:881][867]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PAINT,7228 PAINTEditor Win64 Development -Project="C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject" "C:/Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/PAINT.uproject"  -IgnoreJunk]
+[2020.07.17-02.29.17:902][867]Warning: Starting HotReload took  0.1s.
+[2020.07.17-02.32.08:084][449]CompilerResultsLog: New page: Compilation - Jul 16, 2020, 6:32:08 PM
+[2020.07.17-02.32.08:085][449]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter).
+[2020.07.17-02.32.08:086][449]CompilerResultsLog: Invalidating makefile for PAINTEditor (PAINT.Build.cs modified)
+[2020.07.17-02.32.08:086][449]CompilerResultsLog: Parsing headers for PAINTEditor
+[2020.07.17-02.32.08:086][449]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\PAINT.uproject" "C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\PAINTEditor\Development\PAINTEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Angelica .DESKTOP-RM5JOAJ\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.07.17-02.32.08:087][449]CompilerResultsLog: Reflection code generated for PAINTEditor in 18.3480454 seconds
+[2020.07.17-02.32.08:087][449]CompilerResultsLog: Building PAINTEditor...
+[2020.07.17-02.32.08:087][449]CompilerResultsLog: Using Visual Studio 2019 14.25.28614 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.07.17-02.32.08:087][449]CompilerResultsLog: Building 6 actions with 4 processes...
+[2020.07.17-02.32.08:087][449]CompilerResultsLog:   [1/6] BallerController.gen.cpp
+[2020.07.17-02.32.08:087][449]CompilerResultsLog:   [2/6] Baller.cpp
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(40): warning C4263: 'void ABaller::Crouch(void)': member function does not override any base class virtual member function
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\Baller.h(85): warning C4264: 'void ACharacter::Crouch(bool)': no override available for virtual member function from base 'ACharacter'; function is hidden
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(726): note: see declaration of 'ACharacter::Crouch'
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h(213): note: see declaration of 'ACharacter'
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   [3/6] BallerController.cpp
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:   [4/6] UE4Editor-PAINT-7228.lib
+[2020.07.17-02.32.08:088][449]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7228.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7228.exp
+[2020.07.17-02.32.08:089][449]CompilerResultsLog:   [5/6] UE4Editor-PAINT-7228.dll
+[2020.07.17-02.32.08:089][449]CompilerResultsLog:      Creating library C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7228.suppressed.lib and object C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Intermediate\Build\Win64\UE4Editor\Development\PAINT\UE4Editor-PAINT-7228.suppressed.exp
+[2020.07.17-02.32.08:089][449]CompilerResultsLog:   [6/6] PAINTEditor.target
+[2020.07.17-02.32.08:089][449]CompilerResultsLog: Total time in Parallel executor: 119.96 seconds
+[2020.07.17-02.32.08:090][449]CompilerResultsLog: Total execution time: 168.57 seconds
+[2020.07.17-02.32.08:090][449]LogMainFrame: MainFrame: Module compiling took 170.277 seconds
+[2020.07.17-02.32.08:375][449]LogClass: Could not find existing class Baller in package /Script/PAINT for HotReload, assuming new class
+[2020.07.17-02.32.08:377][449]LogClass: Function IsAiming is new.
+[2020.07.17-02.32.08:378][449]LogClass: Function IsCrouched is new.
+[2020.07.17-02.32.08:378][449]LogClass: Function IsEquiped is new.
+[2020.07.17-02.32.08:378][449]LogClass: Function IsProne is new.
+[2020.07.17-02.32.08:378][449]LogClass: Could not find existing class BallerController in package /Script/PAINT for HotReload, assuming new class
+[2020.07.17-02.32.08:462][449]LogHotReload: Re-instancing Baller after hot-reload.
+[2020.07.17-02.32.08:761][449]LogHotReload: Re-instancing BallerController after hot-reload.
+[2020.07.17-02.32.08:950][449]LogContentBrowser: Native class hierarchy updated for 'PAINT' in 0.0075 seconds. Added 5 classes and 2 folders.
+[2020.07.17-02.32.08:962][449]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2020.07.17-02.32.09:555][449]LogContentBrowser: Native class hierarchy populated in 0.0302 seconds. Added 3432 classes and 823 folders.
+[2020.07.17-02.32.09:556][449]Display: HotReload took 171.7s.
+[2020.07.17-02.32.19:738][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-02.32.20:241][546]LogUObjectHash: Compacting FUObjectHashTables data took  14.98ms
+[2020.07.17-02.32.20:433][546]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/TesterD3A0BE4449E1B473B7155E8817F5B8AF.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.17-02.32.20:584][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.17-02.32.20:788][546]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltDataE0D7005C45C575360BF484B474B7FE85.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.17-02.32.20:853][546]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.17-02.32.20:853][546]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.17-02.32.20:853][546]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.17-02.32.59:221][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.17-02.33.01:288][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-02.33.01:838][681]LogUObjectHash: Compacting FUObjectHashTables data took  19.63ms
+[2020.07.17-02.33.02:096][681]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester6BACBB0848FFD51CA2A5799371D59DBA.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.17-02.33.02:353][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.17-02.33.02:537][681]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData32DB5570411459FE5708A09373EE3CBC.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.17-02.33.02:628][681]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.17-02.33.02:628][681]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.17-02.33.02:629][681]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.17-02.33.05:136][712]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.17-02.33.09:186][775]BlueprintLog: New page: Compile BP_BallerController
+[2020.07.17-02.33.09:595][775]LogUObjectHash: Compacting FUObjectHashTables data took  17.75ms
+[2020.07.17-02.33.10:662][783]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_BallerController160DF1F2456B98417D2EE2894F27C897.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_BallerController.uasset'
+[2020.07.17-02.33.10:769][783]AssetCheck: New page: Asset Save: BP_BallerController
+[2020.07.17-02.33.10:770][783]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BallerController.BP_BallerController
+[2020.07.17-02.33.15:330][868]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.17-02.33.18:459][924]BlueprintLog: New page: Compile BP_PAINTGameModeBase
+[2020.07.17-02.33.18:782][924]LogUObjectHash: Compacting FUObjectHashTables data took  19.31ms
+[2020.07.17-02.33.19:958][939]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/BP_PAINTGameModeBase7C3BCE884949FD0512F5D5AFFE05BE80.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Blueprints/BP_PAINTGameModeBase.uasset'
+[2020.07.17-02.33.20:010][939]AssetCheck: New page: Asset Save: BP_PAINTGameModeBase
+[2020.07.17-02.33.20:010][939]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PAINTGameModeBase.BP_PAINTGameModeBase
+[2020.07.17-02.33.21:478][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.07.17-02.33.21:938][958]LogUObjectHash: Compacting FUObjectHashTables data took  16.73ms
+[2020.07.17-02.33.22:330][958]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester554E86714F5365DB4FC10DA37CF9C1D7.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester.umap'
+[2020.07.17-02.33.22:559][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tester_BuiltData" FILE="../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset" SILENT=true
+[2020.07.17-02.33.22:751][958]LogSavePackage: Moving '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Saved/Tester_BuiltData143E4E3D4DC88E3D0C111DA3EC0992B1.tmp' to '../../../../../../Users/Angelica .DESKTOP-RM5JOAJ/Documents/PaintShooter/PAINT/Content/Tester_BuiltData.uasset'
+[2020.07.17-02.33.22:834][958]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.17-02.33.22:835][958]LogContentValidation: Display: Validating World /Game/Tester.Tester
+[2020.07.17-02.33.22:835][958]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tester_BuiltData.Tester_BuiltData
+[2020.07.17-02.33.23:252][966]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.17-02.33.23:537][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.17-02.33.23:538][966]PIE: New page: PIE session: Tester (Jul 16, 2020, 6:33:23 PM)
+[2020.07.17-02.33.23:559][966]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.07.17-02.33.23:569][966]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.07.17-02.33.23:571][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Tester
+[2020.07.17-02.33.23:590][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018616s)
+[2020.07.17-02.33.23:597][966]LogAIModule: Creating AISystem for world Tester
+[2020.07.17-02.33.23:597][966]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D4473B4C00), frame # 22966
+[2020.07.17-02.33.23:598][966]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D41172DF80), frame # 22966
+[2020.07.17-02.33.23:601][966]LogPlayLevel: PIE: World Init took: (0.010566s)
+[2020.07.17-02.33.23:601][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tester.Tester to /Game/UEDPIE_0_Tester.Tester (0.030080s)
+[2020.07.17-02.33.23:777][966]LogUObjectHash: Compacting FUObjectHashTables data took  15.13ms
+[2020.07.17-02.33.23:786][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.17-02.33.23:787][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.17-02.33.23:787][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.17-02.33.23:789][966]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.17-02.33.23:789][966]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.17-02.33.23:971][966]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.17-02.33.23:971][966]LogAudioMixer: Display: 1: FrontRight
+[2020.07.17-02.33.24:185][966]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio(SST))
+[2020.07.17-02.33.24:186][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.07.17-02.33.24:186][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.07.17-02.33.24:186][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.07.17-02.33.24:188][966]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.07.17-02.33.24:191][966]LogInit: FAudioDevice initialized.
+[2020.07.17-02.33.24:244][966]LogLoad: Game class is 'BP_PAINTGameModeBase_C'
+[2020.07.17-02.33.24:252][966]LogWorld: Bringing World /Game/UEDPIE_0_Tester.Tester up for play (max tick rate 60) at 2020.07.16-22.33.24
+[2020.07.17-02.33.24:253][966]LogWorld: Bringing up level for play took: 0.005670
+[2020.07.17-02.33.24:256][966]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.17-02.33.24:483][966]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2020.07.17-02.33.24:500][966]PIE: Server logged in
+[2020.07.17-02.33.24:506][966]PIE: Play in editor total start time 1.022 seconds.
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: === Critical error: ===
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: 
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: Fatal error!
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: 
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000648
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: 
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007ff8295954f0 UE4Editor-PAINT-7228.dll!ABallerController::Reticle() [C:\Users\Angelica .DESKTOP-RM5JOAJ\Documents\PaintShooter\PAINT\Source\PAINT\BallerController.cpp:15]
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007fffbd0857da UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007fffbd0b12ee UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007fffbcbb9138 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007fffbcbcc964 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:686][ 30]LogWindows: Error: [Callstack] 0x00007fffbcbb71cb UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbcbcae31 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbbea94c4 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbcf6616f UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbcf6b1c7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffeb6a87d8 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffeb6a8aa3 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffeb6bf027 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbcf871b2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbcf8c47a UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbc74c43f UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffbc756cd7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffd8aea737 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007fffd93c00d6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff69b647800 UE4Editor.exe!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff69b65ba7c UE4Editor.exe!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff69b65bb5a UE4Editor.exe!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff69b66e31d UE4Editor.exe!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff69b67145a UE4Editor.exe!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff82f377bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: [Callstack] 0x00007ff82f88ce51 ntdll.dll!UnknownFunction []
+[2020.07.17-02.33.39:687][ 30]LogWindows: Error: 
+[2020.07.17-02.33.39:763][ 30]LogExit: Executing StaticShutdownAfterError
+[2020.07.17-02.33.39:836][ 30]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.07.17-02.33.39:836][ 30]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.07.17-02.33.39:858][ 30]Log file closed, 07/16/20 22:33:39

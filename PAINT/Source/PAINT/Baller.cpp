@@ -2,6 +2,7 @@
 
 
 #include "Baller.h"
+#include "BallerController.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
 #include "GameFramework/SpringArmComponent.h"
@@ -99,13 +100,20 @@ void ABaller::Equip()
 {
 	if(bEquiped){
 		bEquiped = false;
+
 		Gun->Destroy();
+
+		CrossHair->ManageCrossHair();
+		UE_LOG(LogTemp, Warning, TEXT("ManageCrossHair called"));
 	 } else{
 		bEquiped = true;
 		
 		Gun = GetWorld()->SpawnActor<AGun>(GunClass);	
 		Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform, TEXT("index_02_r"));
 		Gun->SetOwner(this);
+		
+		CrossHair->ManageCrossHair();
+		UE_LOG(LogTemp, Warning, TEXT("ManageCrossHair called"));
 	 }
 }
 

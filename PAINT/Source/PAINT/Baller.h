@@ -6,9 +6,10 @@
 #include "GameFramework/Character.h"
 #include "Baller.generated.h"
 
+class ABallerController;
+class AGun;
 class USpringArmComponent;
 class UCameraComponent;
-class AGun;
 
 UCLASS()
 class PAINT_API ABaller : public ACharacter
@@ -26,6 +27,9 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 	void Shoot();
+
+	UFUNCTION(BlueprintCallable, Category = "Gunplay")
+	bool IsEquiped() const;
 
 private:
 
@@ -49,9 +53,6 @@ private:
 	UCameraComponent* Camera;
 
 	UFUNCTION(BlueprintCallable, Category = "Gunplay")
-	bool IsEquiped() const;
-
-	UFUNCTION(BlueprintCallable, Category = "Gunplay")
 	bool IsAiming() const;
 
 	UFUNCTION(BlueprintCallable, Category = "Movement")
@@ -68,6 +69,8 @@ private:
 
 	UPROPERTY()
 	AGun* Gun;
+
+	ABallerController* CrossHair;
 
 	bool bEquiped;
 	bool bCrouched;
