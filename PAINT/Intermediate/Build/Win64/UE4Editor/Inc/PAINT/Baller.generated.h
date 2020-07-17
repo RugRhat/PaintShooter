@@ -16,18 +16,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define PAINT_Source_PAINT_Baller_h_17_SPARSE_DATA
 #define PAINT_Source_PAINT_Baller_h_17_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execIsProne); \
-	DECLARE_FUNCTION(execIsCrouched); \
-	DECLARE_FUNCTION(execIsAiming); \
-	DECLARE_FUNCTION(execIsEquiped);
+	DECLARE_FUNCTION(execIsAiming);
 
 
 #define PAINT_Source_PAINT_Baller_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execIsProne); \
-	DECLARE_FUNCTION(execIsCrouched); \
-	DECLARE_FUNCTION(execIsAiming); \
-	DECLARE_FUNCTION(execIsEquiped);
+	DECLARE_FUNCTION(execIsAiming);
 
 
 #define PAINT_Source_PAINT_Baller_h_17_INCLASS_NO_PURE_DECLS \

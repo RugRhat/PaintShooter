@@ -22,20 +22,6 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 // End Cross Module References
-	DEFINE_FUNCTION(ABaller::execIsProne)
-	{
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=P_THIS->IsProne();
-		P_NATIVE_END;
-	}
-	DEFINE_FUNCTION(ABaller::execIsCrouched)
-	{
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=P_THIS->IsCrouched();
-		P_NATIVE_END;
-	}
 	DEFINE_FUNCTION(ABaller::execIsAiming)
 	{
 		P_FINISH;
@@ -43,21 +29,11 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		*(bool*)Z_Param__Result=P_THIS->IsAiming();
 		P_NATIVE_END;
 	}
-	DEFINE_FUNCTION(ABaller::execIsEquiped)
-	{
-		P_FINISH;
-		P_NATIVE_BEGIN;
-		*(bool*)Z_Param__Result=P_THIS->IsEquiped();
-		P_NATIVE_END;
-	}
 	void ABaller::StaticRegisterNativesABaller()
 	{
 		UClass* Class = ABaller::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "IsAiming", &ABaller::execIsAiming },
-			{ "IsCrouched", &ABaller::execIsCrouched },
-			{ "IsEquiped", &ABaller::execIsEquiped },
-			{ "IsProne", &ABaller::execIsProne },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 	}
@@ -96,120 +72,6 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		if (!ReturnFunction)
 		{
 			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaller_IsAiming_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
-	struct Z_Construct_UFunction_ABaller_IsCrouched_Statics
-	{
-		struct Baller_eventIsCrouched_Parms
-		{
-			bool ReturnValue;
-		};
-		static void NewProp_ReturnValue_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
-		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-	void Z_Construct_UFunction_ABaller_IsCrouched_Statics::NewProp_ReturnValue_SetBit(void* Obj)
-	{
-		((Baller_eventIsCrouched_Parms*)Obj)->ReturnValue = 1;
-	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_ABaller_IsCrouched_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(Baller_eventIsCrouched_Parms), &Z_Construct_UFunction_ABaller_IsCrouched_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaller_IsCrouched_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaller_IsCrouched_Statics::NewProp_ReturnValue,
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaller_IsCrouched_Statics::Function_MetaDataParams[] = {
-		{ "Category", "Movement" },
-		{ "ModuleRelativePath", "Baller.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaller_IsCrouched_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaller, nullptr, "IsCrouched", nullptr, nullptr, sizeof(Baller_eventIsCrouched_Parms), Z_Construct_UFunction_ABaller_IsCrouched_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsCrouched_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaller_IsCrouched_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsCrouched_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaller_IsCrouched()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaller_IsCrouched_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
-	struct Z_Construct_UFunction_ABaller_IsEquiped_Statics
-	{
-		struct Baller_eventIsEquiped_Parms
-		{
-			bool ReturnValue;
-		};
-		static void NewProp_ReturnValue_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
-		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-	void Z_Construct_UFunction_ABaller_IsEquiped_Statics::NewProp_ReturnValue_SetBit(void* Obj)
-	{
-		((Baller_eventIsEquiped_Parms*)Obj)->ReturnValue = 1;
-	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_ABaller_IsEquiped_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(Baller_eventIsEquiped_Parms), &Z_Construct_UFunction_ABaller_IsEquiped_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaller_IsEquiped_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaller_IsEquiped_Statics::NewProp_ReturnValue,
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaller_IsEquiped_Statics::Function_MetaDataParams[] = {
-		{ "Category", "Gunplay" },
-		{ "ModuleRelativePath", "Baller.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaller_IsEquiped_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaller, nullptr, "IsEquiped", nullptr, nullptr, sizeof(Baller_eventIsEquiped_Parms), Z_Construct_UFunction_ABaller_IsEquiped_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsEquiped_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54020401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaller_IsEquiped_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsEquiped_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaller_IsEquiped()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaller_IsEquiped_Statics::FuncParams);
-		}
-		return ReturnFunction;
-	}
-	struct Z_Construct_UFunction_ABaller_IsProne_Statics
-	{
-		struct Baller_eventIsProne_Parms
-		{
-			bool ReturnValue;
-		};
-		static void NewProp_ReturnValue_SetBit(void* Obj);
-		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_ReturnValue;
-		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
-#if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
-#endif
-		static const UE4CodeGen_Private::FFunctionParams FuncParams;
-	};
-	void Z_Construct_UFunction_ABaller_IsProne_Statics::NewProp_ReturnValue_SetBit(void* Obj)
-	{
-		((Baller_eventIsProne_Parms*)Obj)->ReturnValue = 1;
-	}
-	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UFunction_ABaller_IsProne_Statics::NewProp_ReturnValue = { "ReturnValue", nullptr, (EPropertyFlags)0x0010000000000580, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(Baller_eventIsProne_Parms), &Z_Construct_UFunction_ABaller_IsProne_Statics::NewProp_ReturnValue_SetBit, METADATA_PARAMS(nullptr, 0) };
-	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ABaller_IsProne_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ABaller_IsProne_Statics::NewProp_ReturnValue,
-	};
-#if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_ABaller_IsProne_Statics::Function_MetaDataParams[] = {
-		{ "Category", "Movement" },
-		{ "ModuleRelativePath", "Baller.h" },
-	};
-#endif
-	const UE4CodeGen_Private::FFunctionParams Z_Construct_UFunction_ABaller_IsProne_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ABaller, nullptr, "IsProne", nullptr, nullptr, sizeof(Baller_eventIsProne_Parms), Z_Construct_UFunction_ABaller_IsProne_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsProne_Statics::PropPointers), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x54040401, 0, 0, METADATA_PARAMS(Z_Construct_UFunction_ABaller_IsProne_Statics::Function_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UFunction_ABaller_IsProne_Statics::Function_MetaDataParams)) };
-	UFunction* Z_Construct_UFunction_ABaller_IsProne()
-	{
-		static UFunction* ReturnFunction = nullptr;
-		if (!ReturnFunction)
-		{
-			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, Z_Construct_UFunction_ABaller_IsProne_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -254,9 +116,6 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 	};
 	const FClassFunctionLinkInfo Z_Construct_UClass_ABaller_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_ABaller_IsAiming, "IsAiming" }, // 1440257433
-		{ &Z_Construct_UFunction_ABaller_IsCrouched, "IsCrouched" }, // 907017505
-		{ &Z_Construct_UFunction_ABaller_IsEquiped, "IsEquiped" }, // 2855746502
-		{ &Z_Construct_UFunction_ABaller_IsProne, "IsProne" }, // 3632215359
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABaller_Statics::Class_MetaDataParams[] = {
@@ -337,7 +196,7 @@ void EmptyLinkFunctionForGeneratedCodeBaller() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABaller, 1574935130);
+	IMPLEMENT_CLASS(ABaller, 2326545938);
 	template<> PAINT_API UClass* StaticClass<ABaller>()
 	{
 		return ABaller::StaticClass();

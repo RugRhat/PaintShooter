@@ -28,9 +28,6 @@ public:
 
 	void Shoot();
 
-	UFUNCTION(BlueprintCallable, Category = "Gunplay")
-	bool IsEquiped() const;
-
 private:
 
 	void Forward(float AxisValue);	
@@ -38,10 +35,7 @@ private:
 	void LookUp(float AxisValue);
 	void LookRight(float AxisValue);
 
-	void Equip();
 	void Jump();
-	void Crouch();
-	void Prone();
 	void Aim();
 	void StopAiming();
 	// void Quit();
@@ -55,12 +49,6 @@ private:
 	UFUNCTION(BlueprintCallable, Category = "Gunplay")
 	bool IsAiming() const;
 
-	UFUNCTION(BlueprintCallable, Category = "Movement")
-	bool IsCrouched() const;
-
-	UFUNCTION(BlueprintCallable, Category = "Movement")
-	bool IsProne() const;
-
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 70.f;
 
@@ -73,8 +61,6 @@ private:
 	ABallerController* CrossHair;
 
 	bool bEquiped;
-	bool bCrouched;
-	bool bProne;
 	bool bAiming;
 
 protected:

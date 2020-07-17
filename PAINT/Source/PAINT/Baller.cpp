@@ -25,16 +25,15 @@ ABaller::ABaller()
     Camera->SetupAttachment(SpringArm);
 }
 
+
 // Called when the game starts or when spawned
 void ABaller::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	bEquiped = false;
 	bAiming = false;
-	bCrouched = false;
-	bProne = false;
 }
+
 
 // Called every frame
 void ABaller::Tick(float DeltaTime)
@@ -42,6 +41,7 @@ void ABaller::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+
 
 // Called to bind functionality to input
 void ABaller::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -54,11 +54,8 @@ void ABaller::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	PlayerInputComponent->BindAxis(TEXT("Look Right"), this, &ABaller::LookRight);
 	
 	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this, &ABaller::Jump);
-	PlayerInputComponent->BindAction(TEXT("Equip"), EInputEvent::IE_Pressed, this, &ABaller::Equip);
 	PlayerInputComponent->BindAction(TEXT("Aim"), EInputEvent::IE_Pressed, this, &ABaller::Aim);
 	PlayerInputComponent->BindAction(TEXT("Aim"), EInputEvent::IE_Released, this, &ABaller::StopAiming);
-	PlayerInputComponent->BindAction(TEXT("Crouch"), EInputEvent::IE_Pressed, this, &ABaller::Crouch);
-	PlayerInputComponent->BindAction(TEXT("Prone"), EInputEvent::IE_Pressed, this, &ABaller::Prone);
 	PlayerInputComponent->BindAction(TEXT("Shoot"), EInputEvent::IE_Pressed, this, &ABaller::Shoot);
 	// PlayerInputComponent->BindAction(TEXT("Quit"), EInputEvent::IE_Pressed, this, &ABaller::Quit);
 }
@@ -66,9 +63,8 @@ void ABaller::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 void ABaller::Shoot() 
 {
-	if(bEquiped){
-		Gun->PullTrigger();
-	}
+	Gun->PullTrigger();
+
 }
 
 
@@ -96,74 +92,10 @@ void ABaller::LookRight(float AxisValue)
 }
 
 
-void ABaller::Equip() 
-{
-	if(bEquiped){
-		bEquiped = false;
-
-		Gun->Destroy();
-
-		CrossHair->ManageCrossHair();
-		UE_LOG(LogTemp, Warning, TEXT("ManageCrossHair called"));
-	 } else{
-		bEquiped = true;
-		
-		Gun = GetWorld()->SpawnActor<AGun>(GunClass);	
-		Gun->AttachToComponent(GetMesh(), FAttachmentTransformRules::KeepRelativeTransform, TEXT("index_02_r"));
-		Gun->SetOwner(this);
-		
-		CrossHair->ManageCrossHair();
-		UE_LOG(LogTemp, Warning, TEXT("ManageCrossHair called"));
-	 }
-}
-
-
 void ABaller::Jump() 
 {
-	if(!bProne){
-		ACharacter::Jump();
-		SpringArm->TargetArmLength = 250.f;
-		SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
-		if(bCrouched){
-			Crouch();
-		}
-	} else{
-		bProne = false;
-		SpringArm->TargetArmLength = 250.f;
-		SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
-	}
-}
+	ACharacter::Jump();
 
-
-void ABaller::Crouch() 
-{
-	if(bEquiped){
-		if(bCrouched){
-			bCrouched = false;
-			SpringArm->TargetArmLength = 250.f;
-			SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
-		} else{
-			bCrouched = true;	
-			SpringArm->TargetArmLength = 200.f;
-			SpringArm->SocketOffset = FVector(0.f, 0.f, -35.f);
-		}
-	}
-}
-
-
-void ABaller::Prone() 
-{
-	if(bEquiped){
-		if(bProne){
-			bProne = false;
-			SpringArm->TargetArmLength = 250.f;
-			SpringArm->SocketOffset = FVector(0.f, 0.f, 0.f);
-		} else{
-			bProne = true;
-			SpringArm->TargetArmLength = 75.f;
-			SpringArm->SocketOffset = FVector(0.f, 0.f, -75.f);
-		}
-	}
 }
 
 
@@ -192,27 +124,15 @@ void ABaller::StopAiming()
 // }
 
 
-bool ABaller::IsEquiped() const
-{
-	return bEquiped;
-}
+// bool ABaller::IsEquiped() const
+// {
+// 	return bEquiped;
+// }
 
 
 bool ABaller::IsAiming() const
 {
 	return bAiming;
-}
-
-
-bool ABaller::IsCrouched() const
-{
-	return bCrouched;
-}
-
-
-bool ABaller::IsProne() const
-{
-	return bProne;
 }
 
 
